@@ -5,15 +5,14 @@ permalink: /contact/
 ---
 
 ---
-I'd love to hear from you.
-
+<div class="contact-social">
   <div class="contact-social-link">
-      <a href="https://www.linkedin.com/in/mark-t-wetzel-804b933/">
-        <img src="{{ "/assets/images/contact-linkedin.svg" | relative_url }}" />
-        <p>LinkedIn</p>
-      </a>
-    </div>
+    <a href="https://www.linkedin.com/in/mark-t-wetzel-804b933/">
+      <img src="{{ "/assets/images/contact-linkedin.svg" | relative_url }}" />
+      <p>LinkedIn</p>
+    </a>
   </div>
+</div>
 
 ---
 
