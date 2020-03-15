@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Philip Weber | Projects
+title: Mark Wetzel | Projects
 permalink: /
 nav: light
 ---

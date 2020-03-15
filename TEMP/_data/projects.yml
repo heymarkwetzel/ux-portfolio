@@ -1,31 +1,31 @@
 list:
 
-  - title: NowSecure
-    description: Design executive at startup
-    thumbnail: /assets/images/project-thumbnails/project-nowsecure.png
-    url: /nowsecure/
+  - title: YourAvon
+    description: UX Lead, Product
+    thumbnail: /assets/images/project-thumbnails/tbd.jpg
+    url: /youravon/
 
-  - title: Friendly Future
-    description: Design agency co-founder
-    thumbnail: /assets/images/project-thumbnails/project-friendly-future.png
-    url: /friendly-future/
+  - title: United Airlines - Aero
+    description: UX Lead, Product
+    thumbnail: /assets/images/project-thumbnails/tbd.jpg
+    url: /unitedairlines/
+
+  - title: Van Buren Youth Camp
+    description: UX Lead, Website redesign
+    thumbnail: /assets/images/project-thumbnails/tbd.jpg
+    url: /vbyc/
+
+  - title: Postikard
+    description: Co-founder and Design Lead, App
+    thumbnail: /assets/images/project-thumbnails/tbd.jpg
+    url: /postikard/
 
   - title: Design Consulting
-    description: 14+ years of client experience
-    thumbnail: /assets/images/project-thumbnails/project-consulting.png
+    description: 15+ years of client experience
+    thumbnail: /assets/images/project-thumbnails/tbd.jpg
     url: /consulting/
 
-  - title: UX History
-    description: Personal research project
-    thumbnail: /assets/images/project-thumbnails/project-ux-history.png
-    url: https://uxhistory.com/
-
-  - title: Illustration
-    description: Hobby
-    thumbnail: /assets/images/project-thumbnails/project-illustration.jpg
-    url: /illustration/
-
-  - title: Gamestar Mechanic
-    description: Video game design lead
-    thumbnail: /assets/images/project-thumbnails/project-gamestar-mechanic.jpg
-    url: /gamestar-mechanic/
+  - title: Haha Hot Dogs
+    description: Chef Creative Officer, Postcards and more
+    thumbnail: /assets/images/project-thumbnails/tbd.jpg
+    url: /hahahotdogs/
