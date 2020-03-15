@@ -37,7 +37,7 @@ I'd love to hear from you. </p>
 
 ## Email
 
-<form name="contact" class="contact-form" action="https://getform.io/f/b9b09835-531e-45f6-8e88-76cdc5ee6247" method="POST">
+<form name="contact" class="contact-form" action="https://getform.io/f/b0767e1d-3c74-44dd-8b24-e643a61b4dd1" method="POST">
   <div class="contact-form-personal-info">
     <div>
       <label for="name">Your Name</label>
