@@ -1,0 +1,31 @@
+$base-font-family:    freight-sans-pro, sans-serif !default;
+$base-font-size:      24px !default;
+$base-font-weight:    400 !default;
+$small-font-size:     $base-font-size * 0.875 !default;
+$base-line-height:    1.5 !default;
+$spacing-unit:        24px !default;
+
+
+// Color
+$color-green:           #85D6AA !default;
+$color-white:           #FFFFFF !default;
+$color-gray-dark:       #262626 !default;
+$color-gray-semi-dark:  #565656 !default;
+$color-gray-medium:     #727272 !default;
+$color-gray-semi-light: #B8B8B8 !default;
+$color-gray-light:      #ECECEC !default;
+
+// TRY TO REMOVE ALL USAGE OF STUFF BELOW
+
+// Width of the content area
+$content-width:    1200px !default;
+$on-palm:          600px !default;
+$on-laptop:        800px !default;
+
+// Breakpoints
+$xlarge:  1200px;
+$large:   1000px;
+$medium:  800px;
+$small:   600px;
+$xsmall:  440px;
+$tiny:    350px;

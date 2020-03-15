@@ -1,0 +1,20 @@
+---
+layout: photo-list
+head: photo-list
+title: Travel
+permalink: /:path/
+breadcrumbs: show
+---
+
+
+{% for item in site.data.photos-travel.list %}
+<div class="photo-list-item">
+  <div class="photo-list-item-container">
+    <a href="{{ item.url }}" alt="{{ item.title }}">
+      <img src="{{ item.thumbnail }}" />
+      <h4>{{ item.title }}</h4>
+      <p>{{ item.photo-count }}</p>
+    </a>
+  </div>
+</div>
+{% endfor %}

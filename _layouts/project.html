@@ -1,0 +1,17 @@
+---
+layout: default
+---
+<article class="project">
+
+  <header class="project-title {% if page.feature_class %}{{ page.feature_class | escape }}{% endif %}">
+    <div class="pw-container-2-3">
+      <h1>{{ page.title | escape }}</h1>
+      <p>{{ page.description | escape }}</p>
+    </div>
+  </header>
+
+  <div class="page-content pw-container-2-3">
+    {{ content }}
+  </div>
+
+</article>

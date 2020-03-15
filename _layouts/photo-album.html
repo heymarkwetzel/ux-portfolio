@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<div class="photo-album pw-container-full">
+
+  <header class="photo-album-header">
+    <div class="photo-breadcrumbs">
+        <a href="/photos/">Photos</a>
+        {% if page.breadcrumbs %}
+        > <a href="/photos/{{ page.breadcrumbs | escape_once }}/">{{ page.breadcrumbs | escape_once }}</a>
+        {% endif%}
+    </div>
+    <h1 class="photo-album-title">{{ page.title | escape_once }}</h1>
+  </header>
+
+  <div class="photo-album-content">
+    {{ content }}
+  </div>
+
+</div>
+
+<script src="/assets/js/photo-gallery.js"></script>

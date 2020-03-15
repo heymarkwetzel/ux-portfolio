@@ -1,0 +1,20 @@
+title: Philip Weber
+email: mr@philipweber.com
+description: > # this means to ignore newlines until "baseurl:"
+  Philip Weber is a user experience designer and photographer based in Chicago.
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "philipweber.com" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: philipweber
+github_username:  F33L
+timezone: America/Chicago
+permalink: /:title/
+markdown: kramdown
+
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+plugins:
+  - jekyll-feed
+
+exclude: [README.md, Gemfile, Gemfile.lock]

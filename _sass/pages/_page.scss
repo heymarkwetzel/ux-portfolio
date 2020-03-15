@@ -1,0 +1,7 @@
+.page {
+  padding-top: 132px;
+  padding-bottom: 112px;
+  @include bp-max-width(650px){
+      padding-top: 112px;
+  }
+}

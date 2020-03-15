@@ -1,0 +1,38 @@
+.writing-list {
+    margin: 48px 0 0 0;
+}
+
+.writing-list-post {
+    display: flex;
+}
+
+.writing-list-post-date {
+    width:  25%;
+    display: block;
+    font-size: 24px;
+    line-height: 48px;
+    padding-top: 4px;
+    font-weight: 600;
+    color: $color-gray-semi-light;
+    @include bp-max-width($medium) {
+      @include is-hidden;
+    }
+}
+
+p.writing-list-post-title {
+    width: 75%;
+    @include bp-max-width($medium) {
+      width: 100%;
+      margin-bottom: 32px;
+    }
+
+    a {
+      font-weight: 300;
+      font-size: 36px;
+      line-height: 48px;
+      @include bp-max-width($medium) {
+        font-size: 24px;
+        line-height: 32px;
+      }
+    }
+}

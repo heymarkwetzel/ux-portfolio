@@ -1,0 +1,19 @@
+list:
+
+  - title: 2019
+    photo-count: 88 Photos
+    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam hendrerit ex eget urna interdum commodo. Nunc nec elit pharetra.
+    thumbnail: /assets/images/photos/photos-travel-2019.jpg
+    url: 2019/
+
+  - title: 2018
+    photo-count: 82 Photos
+    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam hendrerit ex eget urna interdum commodo. Nunc nec elit pharetra.
+    thumbnail: /assets/images/photos/photos-travel-2018.jpg
+    url: 2018/
+
+  - title: 2017
+    photo-count: 112 Photos
+    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam hendrerit ex eget urna interdum commodo. Nunc nec elit pharetra.
+    thumbnail: /assets/images/photos/photos-travel-2017.jpg
+    url: 2017/

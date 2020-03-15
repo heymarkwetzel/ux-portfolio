@@ -1,0 +1,71 @@
+.btn-lrg {
+    display: inline-block;
+    -webkit-border-radius: 27;
+    -moz-border-radius: 27;
+    border-radius: 27px;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 700;
+    letter-spacing: 1px;
+    height: 54px;
+    font-size: 24px;
+    line-height: 46px;
+    padding: 0 24px 0 24px;
+    margin-bottom: 16px;
+}
+
+.btn-full-width-mobile {
+    @include bp-max-width($xsmall) {
+      width: 100%;
+      padding: 0;
+      text-align: center
+    }
+}
+
+a.btn-lrg-dark {
+    color: $color-white;
+    border: solid $color-green 2px;
+    &:hover {
+      background: rgba(133,214,170,0.10);
+      text-decoration: none;
+    }
+    &:visited {
+      color:$color-white;
+    }
+    &:active {
+      color: $color-green;
+    }
+}
+
+a.btn-lrg-light, button.btn-lrg-light {
+  color: $color-green;
+  border: solid $color-green 2px;
+  background: rgba(0,0,0,0);
+
+  &:hover {
+    background: rgba(133,214,170,0.30);
+    text-decoration: none;
+  }
+  &:visited {
+    color:$color-green;
+  }
+  &:active {
+    color: $color-green;
+  }
+}
+
+a.btn-lrg-light-fill, button.btn-lrg-light-fill {
+  color: $color-white;
+  background: $color-green;
+  border: solid $color-green 2px;
+  &:hover {
+    background: rgba(133,214,170,0.70);
+    text-decoration: none;
+  }
+  &:visited {
+    color:$color-white;
+  }
+  &:active {
+    color: $color-green;
+  }
+}

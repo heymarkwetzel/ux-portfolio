@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+<div class="photo-list pw-container">
+  <header class="photo-list-header">
+    {% if page.breadcrumbs %}
+    <div class="photo-breadcrumbs">
+      <a href="/photos/">Photos</a>
+    </div>
+    {% endif %}
+    <h1>{{ page.title | escape }}</h1>
+  </header>
+  <div class="photo-list-content">
+    {{ content }}
+  </div>
+</div>

@@ -1,0 +1,39 @@
+.site-footer {
+  padding: 48px 0 48px 0;
+  width: 100%;
+  color: white;
+  margin: 0 auto;
+  font-size: 24px;
+  font-weight: 400;
+  text-align: center;
+  background-color: $color-gray-dark;
+
+  a {
+    color: white;
+    font-weight: 700;
+    text-decoration: none;
+    border-bottom: 3px solid $color-green;
+  }
+
+.footer-contact-link {
+    @include bp-max-width($medium) {
+        display: block;
+    }
+}
+
+}
+
+// Stick Footer
+html, body {
+  height: 100%;
+}
+body {
+  display: flex;
+  flex-direction: column;
+}
+.main-content {
+  flex: 1 0 auto;
+}
+.site-footer {
+  flex-shrink: 0;
+}

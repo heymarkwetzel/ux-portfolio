@@ -1,0 +1,31 @@
+list:
+
+  - title: Travel
+    photo-count: 3 sets, 282 photos
+    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam hendrerit ex eget urna interdum commodo. Nunc nec elit pharetra.
+    thumbnail: /assets/images/photos/photos-travel.jpg
+    url: travel/
+
+  - title: Landscape
+    photo-count: 27 photos
+    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam hendrerit ex eget urna interdum commodo. Nunc nec elit pharetra.
+    thumbnail: /assets/images/photos/photos-landscape.jpg
+    url: landscape/
+
+  - title: Portrait
+    photo-count: 11 photos
+    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam hendrerit ex eget urna interdum commodo. Nunc nec elit pharetra.
+    thumbnail: /assets/images/photos/photos-portrait.jpg
+    url: portraits/
+
+  - title: Architecture
+    photo-count: 12 photos
+    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam hendrerit ex eget urna interdum commodo. Nunc nec elit pharetra.
+    thumbnail: /assets/images/photos/photos-architecture.jpg
+    url: architecture/
+
+  - title: Event
+    photo-count: 11 photos
+    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam hendrerit ex eget urna interdum commodo. Nunc nec elit pharetra.
+    thumbnail: /assets/images/photos/photos-event.jpg
+    url: event/

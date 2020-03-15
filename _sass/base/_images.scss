@@ -1,0 +1,20 @@
+/**
+ * Images
+ */
+img {
+  max-width: 100%;
+  vertical-align: middle;
+}
+
+.page-content .img-large{
+    width: 1136px;
+    max-width: 1136px;
+    margin-left: -192px;
+    margin-right: -192px;
+    @include bp-max-width(1184px){
+      width: 100%;
+      margin-left: 0;
+      margin-right: 0;
+    }
+
+}

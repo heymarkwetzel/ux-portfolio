@@ -1,0 +1,160 @@
+// Basic styling
+body {
+  font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
+  color: $color-gray-dark;
+  background-color: $color-white;
+  -webkit-text-size-adjust: 100%;
+  -webkit-font-feature-settings: "kern" 1;
+     -moz-font-feature-settings: "kern" 1;
+       -o-font-feature-settings: "kern" 1;
+          font-feature-settings: "kern" 1;
+  font-kerning: normal;
+}
+
+// Links
+.page-content a {
+  color: $color-gray-dark;
+  text-decoration: none;
+  background-image: linear-gradient($color-green, $color-green);
+  background-position: 0% 100%;
+  background-repeat: no-repeat;
+  background-size: 100% 3px;
+  @include bp-max-width($medium) {
+    background-size: 100% 2px;
+  }
+  &:visited {
+    color: $color-gray-dark;
+  }
+  &:hover, &:focus {
+
+
+  }
+}
+
+// Headlines
+.page-header h1, .page-content h1, .photo-list h1, .photo-album h1{
+    font-size: 54px;
+    color: $color-gray-dark;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: 62px;
+    margin-bottom: 24px;
+    @include bp-max-width($medium) {
+        font-size: 36px;
+        line-height: 44px;
+    }
+}
+.page-content h2 {
+    font-size: 36px;
+    color: $color-gray-dark;
+    line-height: 40px;
+    font-weight: 600;
+    margin-bottom: 24px;
+    @include bp-max-width($medium) {
+        font-size: 24px;
+        line-height: 32px;
+        margin-bottom: 8px;
+    }
+}
+
+.page-content h3 {
+    font-size: 24px;
+    color: $color-gray-dark;
+    line-height: 32px;
+    font-weight: 600;
+    margin-bottom: 16px;
+    @include bp-max-width($medium) {
+        font-size: 16px;
+        line-height: 24px;
+        margin-bottom: 8px;
+    }
+}
+.page-content h4 {
+    font-size: 24px;
+    color: $color-gray-medium;
+    line-height: 32px;
+    font-weight: 600;
+    margin-bottom: 16px;
+    text-transform: uppercase;
+    @include bp-max-width($medium) {
+        font-size: 16px;
+        line-height: 24px;
+        margin-bottom: 8px;
+    }
+}
+
+// Body Copy
+
+.page-content p, ul, ol {
+  font-size: 24px;
+  color: $color-gray-dark;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 36px;
+  margin-bottom: 48px;
+  @include bp-max-width($medium) {
+      font-size: 16px;
+      line-height: 24px;
+      margin-bottom: 24px;
+  }
+}
+
+// Inline text styles
+.green-text {
+  color: $color-green;
+}
+
+// Blockquotes
+.page-content blockquote {
+  background-color: #F7F7F7;
+  color: $color-gray-medium;
+  border-left: 3px solid $color-gray-semi-light;
+  padding-left: $spacing-unit / 2;
+  font-size: 24px;
+  line-height: 36px;
+  h1, h2, h3, h4, p, li {
+      color: $color-gray-medium;
+  }
+  @include bp-max-width($medium) {
+      font-size: 16px;
+      line-height: 24px;
+      margin-bottom: 24px;
+  }
+  > :last-child {
+    margin-bottom: 48px;
+    @include bp-max-width($medium) {
+        margin-bottom: 24px;
+    }
+  }
+}
+
+// divider lines
+.page-content hr {
+    border: none;
+    color: $color-gray-light;
+    background-color: $color-gray-light;
+    margin-bottom: 48px;
+    height: 3px;
+    @include bp-max-width($medium) {
+        margin-bottom: 24px;
+    }
+}
+
+// Code formatting
+pre,
+code {
+  border-radius: 5px;
+  background-color: $color-gray-light;
+}
+code {
+  padding: 1px 5px;
+}
+pre {
+  padding: 8px 12px;
+  overflow-x: auto;
+  > code {
+    border: 0;
+    padding-right: 0;
+    padding-left: 0;
+  }
+}

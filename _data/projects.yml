@@ -1,0 +1,31 @@
+list:
+
+  - title: NowSecure
+    description: Design executive at startup
+    thumbnail: /assets/images/project-thumbnails/project-nowsecure.png
+    url: /nowsecure/
+
+  - title: Friendly Future
+    description: Design agency co-founder
+    thumbnail: /assets/images/project-thumbnails/project-friendly-future.png
+    url: /friendly-future/
+
+  - title: Design Consulting
+    description: 14+ years of client experience
+    thumbnail: /assets/images/project-thumbnails/project-consulting.png
+    url: /consulting/
+
+  - title: UX History
+    description: Personal research project
+    thumbnail: /assets/images/project-thumbnails/project-ux-history.png
+    url: https://uxhistory.com/
+
+  - title: Illustration
+    description: Hobby
+    thumbnail: /assets/images/project-thumbnails/project-illustration.jpg
+    url: /illustration/
+
+  - title: Gamestar Mechanic
+    description: Video game design lead
+    thumbnail: /assets/images/project-thumbnails/project-gamestar-mechanic.jpg
+    url: /gamestar-mechanic/

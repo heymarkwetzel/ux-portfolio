@@ -1,0 +1,113 @@
+.photo-album {
+  padding-top: 132px;
+  padding-bottom: 112px;
+  @include bp-max-width(650px){
+      padding-top: 112px;
+  }
+}
+
+
+div.pswp__caption {
+  display: none;
+}
+
+.photo-album-content {
+  margin: 0 -16px;
+}
+
+.gallery {
+  width: 100%;
+  height: auto;
+  float: left;
+  padding-top:1em;
+}
+
+.thumbnail {
+  display: block;
+}
+
+.thumbnail img {
+  width: 100%;
+  height: auto;
+  border: 0;
+}
+
+.thumbnail a {
+  width: 100%;
+  height: 100%;
+  line-height: 0;
+  margin: 0;
+  padding: 0;
+  display: block;
+}
+
+
+.thumbnail figcaption {
+  display:none;
+}
+
+/* Images */
+.menu-img,
+.gallery-img {
+  width: 200px;
+  float: left;
+  margin: 0;
+  padding: 0;
+}
+
+/* Videos */
+.video {
+  width: 100%;
+  margin: 0 0 24px 0;
+}
+.video__container {
+  position: relative;
+  width: 100%;
+  padding-bottom: 56.25%;
+  padding-top: 35px;
+  height: 0;
+  overflow: hidden;
+}
+.video__container iframe,
+.video__container video {
+  position: absolute;
+  top:0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  padding: 2% 0 15% 0;
+}
+.video-desc {
+  width: 100%;
+  max-width: 740px;
+  margin: 12px auto;
+}
+
+.additionnal-infos {
+  width: 100%;
+  height: auto;
+  float: left;
+}
+
+
+
+@media screen and (max-width: 700px) {
+  .menu-img,
+  .gallery-img {
+    width: 33%;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .menu-img,
+  .gallery-img {
+    width: 50%;
+  }
+}
+
+@media screen and (max-width: 300px) {
+  .menu-img,
+  .gallery-img {
+    width: 100%;
+  }
+}

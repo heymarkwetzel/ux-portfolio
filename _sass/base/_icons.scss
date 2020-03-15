@@ -1,0 +1,11 @@
+/**
+ * Icons
+ */
+.icon > svg {
+  display: inline-block;
+  vertical-align: middle;
+
+  path {
+    fill: $color-gray-medium;
+  }
+}

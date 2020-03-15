@@ -1,0 +1,88 @@
+.contact {
+  padding-top: 132px;
+  padding-bottom: 112px;
+  @include bp-max-width(650px){
+      padding-top: 112px;
+  }
+}
+
+.contact-social {
+  display: flex;
+  margin-bottom: 48px;
+  @include bp-max-width($medium) {
+    margin-bottom: 24px;
+  }
+}
+
+div.contact-social-link {
+  margin-right: 24px;
+  text-align: center;
+  a {
+    text-decoration: none;
+    font-size: 24px;
+    background-image: none;
+  }
+  p {
+    font-size: 24px;
+    margin-bottom: 0;
+    background-image: linear-gradient($color-green, $color-green);
+    padding-bottom: 2px;
+    background-position: 0% 100%;
+    background-repeat: no-repeat;
+    background-size: 100% 2px;
+    @include bp-max-width($medium) {
+      font-size: 16px;
+    }
+  }
+  img {
+    margin-bottom: 8px;
+  }
+}
+
+.contact-form {
+  label {
+    display: block;
+    font-weight: 400;
+    font-size: 24px;
+    @include bp-max-width($small) {
+      font-size: 16px;
+    }
+  }
+  input, textarea {
+    color: $color-gray-dark;
+    background: $color-gray-light;
+    font-family: $base-font-family;
+    font-weight: 400;
+    width: 100%;
+    border: none;
+    padding: 8px;
+    font-size: 24px;
+    @include bp-max-width($small) {
+      font-size: 16px;
+    }
+  }
+}
+
+.contact-form-personal-info {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  @include bp-max-width($small) {
+    flex-direction: column;
+  }
+  div {
+    margin-bottom: 24px;
+    width: calc(50% - 8px);
+    @include bp-max-width($small) {
+      width: 100%;
+    }
+  }
+}
+
+.contact-message {
+  textarea {
+    height: 195px;
+    resize: none;
+  }
+  margin-bottom: 24px;
+}

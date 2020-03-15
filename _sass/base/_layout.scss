@@ -1,0 +1,46 @@
+.pw-container, .pw-container-2-3, .pw-container-1-2 {
+    width: 100%;
+    margin: 0 auto;
+    @include bp-max-width(1184px) {
+        padding-left: 24px;
+        padding-right: 24px;
+    }
+    @include bp-max-width($medium) {
+        padding-left: 16px;
+        padding-right: 16px;
+    }
+}
+
+.pw-container {
+    max-width: 1136px;
+}
+
+.pw-container-2-3 {
+    max-width: 752px;
+}
+
+.pw-container-1-2 {
+    max-width: 560px;
+}
+
+.pw-container-1-2 {
+    max-width: 560px;
+}
+
+.pw-container-full {
+  width: 100%;
+  margin: 0 auto;
+
+  padding-left: 40px;
+  padding-right: 40px;
+
+  @include bp-max-width(1184px) {
+      padding-left: 24px;
+      padding-right: 24px;
+  }
+
+  @include bp-max-width($medium) {
+      padding-left: 16px;
+      padding-right: 16px;
+  }
+}

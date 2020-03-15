@@ -1,0 +1,71 @@
+.project .page-content{
+    margin: 48px auto 112px auto;
+    overflow: visible;
+}
+
+.project-title {
+  width: 100%;
+  height: 576px;
+  @include bp-max-width($medium) {
+    height: auto;
+  }
+  div {
+    padding-top: 192px;
+    @include bp-max-width($medium) {
+      padding-top: 128px;
+      padding-bottom: 72px;}
+  }
+  h1 {
+    font-weight: 700;
+    font-size: 54px;
+    line-height: 62px;
+    color: $color-white;
+    margin-bottom: 24px;
+    @include bp-max-width($medium) {
+      font-size: 36px;
+      line-height: 42px;}
+  }
+  p {
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 36px;
+    color: $color-white;
+    @include bp-max-width($medium) {
+      font-size: 16px;
+      line-height: 24px;
+    }
+    }
+}
+
+//Project Specific Styles
+.feature-nowsecure {
+    background-color: #0499FF;
+    background-image: url("/assets/images/project-bg/project-bg-nowsecure.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.feature-illustration {
+    background-color: #4E59CC;
+}
+.feature-gamestar {
+    background-color: #580058;
+    background-image: url("/assets/images/project-bg/project-bg-gamestar-mechanic.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+.feature-friendly-future {
+    background-color: #12E2C0;
+    background-image: url("/assets/images/project-bg/project-bg-friendly-future.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+.feature-consulting {
+    background-color: #E74C3C;
+    background-image: url("/assets/images/project-bg/project-bg-consulting.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
