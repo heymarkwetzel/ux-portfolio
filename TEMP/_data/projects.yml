@@ -2,30 +2,30 @@ list:
 
   - title: YourAvon
     description: UX Lead, Product
-    thumbnail: /assets/images/project-thumbnails/tbd.jpg
+    thumbnail: /assets/images/project-thumbnails/youravon.jpg
     url: /youravon/
 
   - title: United Airlines - Aero
     description: UX Lead, Product
-    thumbnail: /assets/images/project-thumbnails/tbd.jpg
+    thumbnail: /assets/images/project-thumbnails/united.jpg
     url: /unitedairlines/
 
   - title: Van Buren Youth Camp
     description: UX Lead, Website redesign
-    thumbnail: /assets/images/project-thumbnails/tbd.jpg
+    thumbnail: /assets/images/project-thumbnails/vbyc.jpg
     url: /vbyc/
 
   - title: Postikard
     description: Co-founder and Design Lead, App
-    thumbnail: /assets/images/project-thumbnails/tbd.jpg
+    thumbnail: /assets/images/project-thumbnails/postikard.jpg
     url: /postikard/
 
   - title: Haha Hot Dogs
     description: Chef Creative Officer, Postcards and more
-    thumbnail: /assets/images/project-thumbnails/tbd.jpg
+    thumbnail: /assets/images/project-thumbnails/hahahotdogs.jpg
     url: /hahahotdogs/
 
   - title: Design Consulting
     description: 15+ years of client experience
-    thumbnail: /assets/images/project-thumbnails/tbd.jpg
+    thumbnail: /assets/images/project-thumbnails/designconsulting.jpg
     url: /consulting/
