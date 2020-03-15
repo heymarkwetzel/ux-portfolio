@@ -20,12 +20,12 @@ list:
     thumbnail: /assets/images/project-thumbnails/tbd.jpg
     url: /postikard/
 
-  - title: Design Consulting
-    description: 15+ years of client experience
-    thumbnail: /assets/images/project-thumbnails/tbd.jpg
-    url: /consulting/
-
   - title: Haha Hot Dogs
     description: Chef Creative Officer, Postcards and more
     thumbnail: /assets/images/project-thumbnails/tbd.jpg
     url: /hahahotdogs/
+
+  - title: Design Consulting
+    description: 15+ years of client experience
+    thumbnail: /assets/images/project-thumbnails/tbd.jpg
+    url: /consulting/
