@@ -7,20 +7,24 @@ permalink: /contact/
 ---
 
 <div class="contact-social">
+  <!--
   <div class="contact-social-link">
     <a href="https://www.instagram.com/philipweber/">
       <img src="{{ "/assets/images/contact-instagram.svg" | relative_url }}" />
       <p>Instagram</p>
     </a>
   </div>
+  -->
+  <!--
   <div class="contact-social-link">
     <a href="https://twitter.com/philipweber/">
       <img src="{{ "/assets/images/contacttwitter.svg" | relative_url }}" />
       <p>Twitter</p>
     </a>
   </div>
+  -->
   <div class="contact-social-link">
-    <a href="https://www.linkedin.com/in/philipweber/">
+    <a href="https://www.linkedin.com/in/mark-t-wetzel-804b933/">
       <img src="{{ "/assets/images/contact-linkedin.svg" | relative_url }}" />
       <p>LinkedIn</p>
     </a>
