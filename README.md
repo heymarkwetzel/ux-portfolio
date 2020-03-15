@@ -1,17 +1,9 @@
-# philipweber.com
-
-- [Visual Design (Mobile)](https://sketch.cloud/s/YjxyZ/52QWxAp/play)
-- [Visual Design (Desktop)](https://sketch.cloud/s/YjxyZ/YG2v1AO/play)
-- [Test Build of Jekyll site](https://trusting-mayer-2f8fa6.netlify.com/)
+# heymarkwetzel.com
 
 Site Structure
 ------
 - Home (Projects)
     - Project Details
-- Writing
-  - Article
-- Photos
-  - Photoset
 - About
   - Resume
 - Contact
