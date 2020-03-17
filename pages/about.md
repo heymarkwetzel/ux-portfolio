@@ -4,6 +4,15 @@ title: About Me
 permalink: /about/
 ---
 
-I need to write this page, sorry.
+Hey, I'm Mark.
+I got into user experience design because I wanted to make things better for people.
+I help my clients reach their goals while removing barriers for their customers and user-base. I've been fortunate enough to work closely with many passionate people to help identify their needs, improve processes, and redesign UIs that all help to improve their day-to-day.
+
+I've worked across many different industries, for companies big and small, and have found the language of design can be applied to any problem.
+
+I am currently doing freelance UX work remotely and I am based out of both Chicago and New York.
+
+In my spare time, I enjoy [reading](https://www.goodreads.com/user/show/621952-mark) non-fiction, getting into nature, and working on my passion projects of [Haha Hot Dogs](http://www.hahahotodgs.com) and Postikard.
+
 
 [Contact Me](/contact/){:class="btn-lrg btn-lrg-light-fill btn-full-width-mobile"} [My Resume](../resume){:class="btn-lrg btn-lrg-light btn-full-width-mobile"}
