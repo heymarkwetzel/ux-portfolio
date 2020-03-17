@@ -5,6 +5,7 @@ permalink: /about/
 ---
 
 Hey, I'm Mark.
+
 I got into user experience design because I wanted to make things better for people.
 I help my clients reach their goals while removing barriers for their customers and user-base. I've been fortunate enough to work closely with many passionate people to help identify their needs, improve processes, and redesign UIs that all help to improve their day-to-day.
 
