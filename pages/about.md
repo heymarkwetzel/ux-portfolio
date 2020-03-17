@@ -12,7 +12,7 @@ I've worked across many different industries, for companies big and small, and h
 
 I am currently doing freelance UX work remotely and I am based out of both Chicago and New York.
 
-In my spare time, I enjoy [reading](https://www.goodreads.com/user/show/621952-mark) non-fiction, getting into nature, and working on my passion projects of [Haha Hot Dogs](http://www.hahahotodgs.com) and Postikard.
+In my spare time, I enjoy [reading](https://www.goodreads.com/user/show/621952-mark) non-fiction, getting into nature, and working on my passion projects of [Haha Hot Dogs](https://www.instagram.com/hahahotdogs/) and Postikard.
 
 
 [Contact Me](/contact/){:class="btn-lrg btn-lrg-light-fill btn-full-width-mobile"} [My Resume](../resume){:class="btn-lrg btn-lrg-light btn-full-width-mobile"}
