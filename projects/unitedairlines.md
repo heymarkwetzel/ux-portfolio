@@ -1,8 +1,8 @@
 ---
 layout: project
-title: Your Avon
-permalink: /youravon/
-feature_class: feature-youravon
+title: United Airlines
+permalink: /unitedairlines/
+feature_class: feature-unitedairlines
 nav: light
 description: This page is under construction.
 
