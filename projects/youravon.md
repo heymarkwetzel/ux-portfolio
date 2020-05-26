@@ -12,7 +12,7 @@ description: UX Lead. Redesign of the portal used by Representatives to manage t
 
 Avon is a social-selling beauty company - one of the first of its kind. They face more competition in this space than ever before.
 We worked with them to fully update and redesign the suite of tools used by their business owners.
-##### Primary goals
+#### Primary goals
 - Consolidating separate sites and tools into one
 - Updating the design and experience to be more modern and user-friendly
 
@@ -27,7 +27,7 @@ Below are a few features that I oversaw personally.
 ### Registration and Sign In
 
 Avon started before computers were mainstream and so many of the internal processes have holdovers from paper-centric management systems. My work on Registration and Sign In flows provided new functionality such as:
-• Using an email for Registration and Sign In
+- Using an email for Registration and Sign In
 - Using Facebook or Gmail for Registration and Sign In
 - Solving for new account recovery scenarios
 - Solving for duplicate emails and account splitting
@@ -38,12 +38,15 @@ Avon started before computers were mainstream and so many of the internal proces
 
 ![Repfest 2018](/assets/images/projects/youravon-registration-process.jpg){:class="img-large"}
 
+
 ### Next Best Action
-Running a business is difficult. If you're new to it, it can be downright overwhelming. We created a system of recommendations to suggest a clear and direct action she could.
+Running a business is difficult. If you're new to it, it can be downright overwhelming. We created a system of recommendations to suggest clear and direct actions that could be taken immediately to benefit their business.
+
 ![Repfest 2018](/assets/images/projects/youravon-nextbestaction.jpg){:class="img-large"}
 
+
 ### Enter Items
-The more experienced Representatives have been selling Avon for decades. By updating their portal, we were interrupting their tried-and-true workflows. We worked especially close with them on the Enter Items feature which allows quick entry of Product Numbers for their customers. From physical spreadsheet, to digital table, to a single row that populates a list, we successfully added robust features while staying true to the way they've worked for years.
+The more experienced Representatives have been selling Avon for decades. By updating their portal, we were interrupting their workflows. We worked especially close with them on the Enter Items feature which allows quick entry of Product Numbers for customers orders. From physical spreadsheet, to digital table, to a single row that populates a list, we successfully added robust features while staying true to the way seasoned Representatives are comfortable getting work done.
 
 ![Repfest 2018](/assets/images/projects/youravon-enteritems-compare.jpg){:class="img-large"}
 
