@@ -34,9 +34,9 @@ Avon started before computers were mainstream and so many of the internal proces
 - Fewer steps and streamlined registration experience
 - many more Avon-specific use cases
 
-![Repfest 2018](/assets/images/projects/youravon-registration-landing.jpg){:class="img-large"}
+![YourAvon Registration landing page](/assets/images/projects/youravon-registration-landing.jpg){:class="img-large"}
 
-![Repfest 2018](/assets/images/projects/youravon-registration-process.jpg){:class="img-large"}
+![YourAvon Registration process](/assets/images/projects/youravon-registration-process.jpg){:class="img-large"}
 
 
 ### Next Best Action
@@ -48,7 +48,7 @@ Running a business is difficult. If you're new to it, it can be downright overwh
 ### Enter Items
 The more experienced Representatives have been selling Avon for decades. By updating their portal, we were interrupting their workflows. We worked especially close with them on the Enter Items feature which allows quick entry of Product Numbers for customers orders. From physical spreadsheet, to digital table, to a single row that populates a list, we successfully added robust features while staying true to the way seasoned Representatives are comfortable getting work done.
 
-![Repfest 2018](/assets/images/projects/youravon-enteritems-compare.jpg){:class="img-large"}
+![YourAvon Enter items](/assets/images/projects/youravon-enteritems-compare.jpg){:class="img-large"}
 
 ## RepFest 2018
 
@@ -56,4 +56,4 @@ We had a great relationship with our Avon partners. They treated us like family 
 
 Together, we spoke to hundreds of Representatives, demoed our product updates live on iPads in personal, one-on-one conversations, and were there to hear thousands cheer in the convention center when the CEO showed them our work on the big screen.
 
-![Repfest 2018](/assets/images/projects/youravon-repfest2018.jpg){:class="img-large"}
+![YourAvon Repfest 2018](/assets/images/projects/youravon-repfest2018.jpg){:class="img-large"}
