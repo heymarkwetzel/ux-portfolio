@@ -35,6 +35,7 @@ Avon started before computers were mainstream and so many of the internal proces
 - many more Avon-specific use cases
 
 ![Repfest 2018](/assets/images/projects/youravon-registration-landing.jpg){:class="img-large"}
+
 ![Repfest 2018](/assets/images/projects/youravon-registration-process.jpg){:class="img-large"}
 
 
