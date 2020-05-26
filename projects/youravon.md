@@ -11,23 +11,23 @@ description: UX Lead. Redesign of the portal used by Representatives to manage t
 ## Summary
 
 Avon is a social-selling beauty company - one of the first of its kind. They face more competition in this space than ever before.
-
-We worked with them to fully update and redesign the suite of tools used by their business owners with the goals of
-- Consolidating and updating the current toolset
-- Enticing the younger generation to join by providing a modern and user-friendly experience
+We worked with them to fully update and redesign the suite of tools used by their business owners.
+##### Primary goals
+- Consolidating separate sites and tools into one
+- Updating the design and experience to be more modern and user-friendly
 
 ## Process
 
-I led several tracks of work while collaborating closely with the Avon design team and our client partners. I helped to plan sprints, define requirements, iterate on designs and prototypes, consult with developers and QA before releases, and more.
+I led several tracks of work while collaborating closely with the Avon design team and third-party vendors. I helped to plan sprints, define requirements, iterate on designs and prototypes, consult and QA with developers, and more.
+Each set of features started with intensive requirements gathering, informed by user interviews and complemented by competitive analysis to help inform our design strategy.
 
-Each set of features started with intensive requirements gathering, informed by interviews with Representatives and complemented by competitor analysis to ensure we were properly directing our designs.
-
-Our successes were many; from including images with products for the first time to restructuring the site's IA. Below are a few highlighted features that I personally oversaw.
+Our successes were many; from including images with products for the first time to developing a custom library of helpful actions a business owner can take.
+Below are a few features that I oversaw personally.
 
 ### Registration and Sign In
 
 Avon started before computers were mainstream and so many of the internal processes have holdovers from paper-centric management systems. My work on Registration and Sign In flows provided new functionality such as:
-- Using an email for Registration and Sign In
+• Using an email for Registration and Sign In
 - Using Facebook or Gmail for Registration and Sign In
 - Solving for new account recovery scenarios
 - Solving for duplicate emails and account splitting
