@@ -4,7 +4,7 @@ title: Your Avon
 permalink: /youravon/
 feature_class: feature-youravon
 nav: light
-description: UX Lead. Redesign of the Representatives' business portal.
+description: UX Lead. Redesign of the portal used by Representatives to manage their business.
 
 ---
 
