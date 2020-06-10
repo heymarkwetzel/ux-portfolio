@@ -17,6 +17,7 @@ Van Buren Youth Camp (VBYC) hadn't had a website redesign since 2000. I worked w
 We interviewed members of the Board to established goals of increasing camper signup, the amount of returning campers, and to drive engagement with the dedicated alumni network. They talked a lot about the "spirit of camp" and recommended I visit while camp was in session... so I did! It was an amazing experience and I learned a lot about this truly special place.
 
 ![VBYC Site visit](/assets/images/projects/vbyc-visit.jpg){:class="img-large"}
+
 ---
 
 With discovery tasks in my pocket, I returned to Chicago to conduct a full site audit which helped me established a new information architecture complete with page-level content recommendations. This process also led to a system of five Page Types (templates) that could be used as the site needs changed over time.
