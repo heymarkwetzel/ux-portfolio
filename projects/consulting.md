@@ -23,10 +23,10 @@ I have been privileged to partner with a wide range of clients. Getting to know 
 
 ## Agencies
 
-I started at my first agency in 2005 and was quickly surrounded by many talented people who helped give me invaluable experience. I stayed as a FTE for seven years before jumping to a startup.
+I started at my first agency in 2006 and was quickly surrounded by many talented people who helped give me invaluable experience. I was a FTE for seven years before jumping to a startup.
 
-My next step with agencies was to partner with them as an independent contractor. I worked for a few large agencies while also helping to start a design studio with close friends.
+In 2015, I went out on my own as an independent contractor, partnering with agencies on larger projects. I split my time between a few agencies while also helping to start a design studio with close friends.
 
-My favorite part of working with agencies is the droves of talented people who are within arms reach. They make it so easy to bounce ideas, quickly validate concepts, and to learn from different perspectives and experiences.
+My favorite part of working with larger teams is the droves of talented people who are within arms reach. They make it so easy to bounce ideas, quickly validate concepts, and to learn from different perspectives and experiences.
 
 ![Agencies List](/assets/images/projects/consulting-agencies.jpg){:class="img-large"}
