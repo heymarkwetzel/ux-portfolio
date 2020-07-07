@@ -27,4 +27,8 @@ With the UX phase complete, I stayed on as consultant for design and development
 ## Results and Outcome
 An alum from camp, upon seeing the site for the first time, cried tears of joy.
 
+![VBYC Home](/assets/images/projects/vbyc-home.jpg){:class="img-large"}
+---
+![VBYC About](/assets/images/projects/vbyc-about.jpg){:class="img-large"}
+
 [View VBYC.org](http://www.vbyc.org){:class="btn-lrg btn-lrg-light-fill btn-full-width-mobile"}
