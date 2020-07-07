@@ -1,5 +1,10 @@
 list:
 
+  - title: Design Consulting
+    description: 15+ years of client experience
+    thumbnail: /assets/images/project-thumbnails/designconsulting.jpg
+    url: /consulting/
+
   - title: YourAvon
     description: UX Lead, Product
     thumbnail: /assets/images/project-thumbnails/youravon.jpg
@@ -24,8 +29,3 @@ list:
     description: Chef Creative Officer, Postcards and more
     thumbnail: /assets/images/project-thumbnails/hahahotdogs.jpg
     url: /hahahotdogs/
-
-  - title: Design Consulting
-    description: 15+ years of client experience
-    thumbnail: /assets/images/project-thumbnails/designconsulting.jpg
-    url: /consulting/
