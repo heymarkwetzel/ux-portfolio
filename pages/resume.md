@@ -59,7 +59,7 @@ I am a UX designer focused on products and websites. For 15+ years, I have been 
 - Created and taught a 10-week course on the principles of UX design after receiving positive feedback from a guest-speaking engagement at the school.
 
 ### Critical Mass
-##### Experience Architect
+#### Experience Architect
 - Aug 2011 - Dec 2014
 - Led the UX, and a team of three, for a product design while partnering with United Airlines. Created concepts, wireframes, site maps, annotations, and prototypes. Led and participated in sketch sessions, concerting meetings, research, and strategy. Collaborated closely with every discipline, learning a lot about strategy, design, development, QA, content strategy, client management, and more.
 
