@@ -8,7 +8,7 @@ nav: light
 <section class="home-hero">
   <div class="pw-container">
     <div class="home-hero-content">
-      <p>Hey! I'm <span class="green-text">Mark Wetzel</span>, a UX designer focused on products and websites.</p>
+      <p>Hey! I'm <span class="green-text">Mark Wetzel</span>, a UX designer focused on products and problem solving.</p>
       <a class="btn-lrg btn-lrg-dark" href="{{ "/contact/" | relative_url }}">Contact Me</a>
     </div>
   </div>
