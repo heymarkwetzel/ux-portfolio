@@ -61,4 +61,3 @@ We had a great relationship with our Avon partners. They treated us like family 
 Together, we spoke to hundreds of Representatives, demoed our product updates live on iPads in personal, one-on-one conversations, and were there to hear thousands cheer in the convention center when the CEO showed them our work on the big screen.
 
 ![YourAvon Repfest 2018](/assets/images/projects/youravon-repfest2018.jpg){:class="img-large"}
-That's me on the right with the big ol' grin. I have since received a haircut.
