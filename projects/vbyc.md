@@ -14,7 +14,7 @@ Van Buren Youth Camp (VBYC) hadn't had a website redesign since 2000. I worked w
 
 ## Process
 
-We interviewed members of the Board to established goals of increasing camper signup, the amount of returning campers, and to drive engagement with the dedicated alumni network. They talked a lot about the "spirit of camp" and recommended I visit while camp was in session... so I did! It was an amazing experience and I learned a lot about this truly special place.
+We interviewed members of the Board and established goals of increasing camper signup, the amount of returning campers, and to drive engagement with the dedicated alumni network. They talked a lot about the "spirit of camp" and recommended I visit while camp was in session... so I did! It was an amazing experience and I learned a lot about this truly special place.
 
 ![VBYC Site visit](/assets/images/projects/vbyc-visit.jpg){:class="img-large"}
 
@@ -28,7 +28,18 @@ With the UX phase complete, I stayed on as consultant for design and development
 An alum from camp, upon seeing the site for the first time, cried tears of joy.
 
 ![VBYC Home](/assets/images/projects/vbyc-home.jpg){:class="img-large"}
+
 ---
+
 ![VBYC About](/assets/images/projects/vbyc-about.jpg){:class="img-large"}
+
+---
+
+## Major wins
+- Sign Up and Donate have been given consistent, prominent locations.
+- Hero imagery shows the story and culture of VBYC.
+- Sessions are easy to find, learn about, and sign up for.
+- A brand new [Typical Day](http://vbyc.org/typical-day/) page sets meaningful expectations for the wary camper and curious parent.
+- Alumni have a more prominent section where they can sign up for updates or donate to their beloved camp
 
 [View VBYC.org](http://www.vbyc.org){:class="btn-lrg btn-lrg-light-fill btn-full-width-mobile"}
