@@ -36,11 +36,13 @@ We prioritize sending the Postikard via text or email so that you are sharing yo
 
 ## Design
 
-I went to the drawing board and gathered my notes into sketches and wireframes.
+I went to the drawing board and gathered my notes into sketches and wireframes. The wires were delivered with an accompanying annotation document to maintain context and desired functionality.
 
 ![Postikard sketches](/assets/images/projects/postikard-sketches.jpg){:class="img-large"}
 
 ![Postikard wireframes](/assets/images/projects/postikard-wireframes.jpg){:class="img-large"}
+
+![Postikard annotations](/assets/images/projects/postikard-annotations.jpg){:class="img-large"}
 
 We then partnered with my incredible Art Director friend, [Dan Leu](https://www.danleu.me), to bring the concepts to life knowing that the look and feel would make or break the app.
 
