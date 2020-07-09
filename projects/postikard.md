@@ -18,10 +18,7 @@ We had initially discussed a fully interactive journal experience with maps, lis
 
 ## Discovery
 
-I interviewed Jasna to gather requirements, establish scope, and zero in on how best to accomplish our goals. Our priorities were to keep it:
-- Simple
-- Quick
-- Personal
+I interviewed Jasna to gather requirements, establish scope, and zero in on how best to accomplish our goals. Our priorities were to keep it simple, quick, and personal.
 
 ### Keep it simple
 We provide one custom filter, no choosing. The “Greetings from” copy can only be one of three fonts and four colors, simple to cycle through.
