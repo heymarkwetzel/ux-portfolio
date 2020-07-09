@@ -39,3 +39,11 @@ We prioritize sending the Postikard via text or email so that you are sharing yo
 I went to the drawing board and gathered my notes into sketches and wireframes.
 
 ![Postikard sketches](/assets/images/projects/postikard-sketches.jpg){:class="img-large"}
+
+![Postikard wireframes](/assets/images/projects/postikard-wireframes.jpg){:class="img-large"}
+
+We then partnered with my incredible Art Director friend, [Dan Leu](https://www.danleu.me), to bring the concepts to life knowing that the look and feel would make or break the app.
+
+The app is currently in development and we hope to launch soon. 🤞
+
+![Postikard Hero](/assets/images/projects/postikard-final.jpg){:class="img-large"}
