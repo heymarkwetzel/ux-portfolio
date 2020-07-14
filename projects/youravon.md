@@ -8,8 +8,6 @@ description: UX Lead. Redesign of the portal used by Representatives to manage t
 
 ---
 
-## Summary
-
 Avon is a social-selling beauty company - one of the first of its kind. They face more competition in this space than ever before.
 We worked with them to fully update and redesign the suite of tools used by their business owners.
 #### Primary goals
@@ -53,6 +51,8 @@ Running a business is difficult. If you're new to it, it can be downright overwh
 The more experienced Representatives have been selling Avon for decades. By updating their portal, we were interrupting their workflows. We worked especially close with them on the Enter Items feature which allows quick entry of Product Numbers for customers orders. From physical spreadsheet, to digital table, to a single row that populates a list, we successfully added robust features while staying true to the way seasoned Representatives are comfortable getting work done.
 
 ![YourAvon Enter items](/assets/images/projects/youravon-enteritems-compare.jpg){:class="img-large"}
+
+---
 
 ## RepFest 2018
 

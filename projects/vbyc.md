@@ -8,8 +8,6 @@ description: UX Lead. Full site redesign for a youth leadership camp in Michigan
 
 ---
 
-## Summary
-
 Van Buren Youth Camp (VBYC) hadn't had a website redesign since 2000. I worked with a small team to restructure, redesign, and deliver a new website that VBYC could manage on their own for years to come.
 
 ## Process
@@ -42,4 +40,4 @@ An alum from camp, upon seeing the site for the first time, cried tears of joy.
 - A brand new [Typical Day](http://vbyc.org/typical-day/) page sets meaningful expectations for the wary camper and curious parent.
 - Alumni have a more prominent section where they can sign up for updates or donate to their beloved camp
 
-[View VBYC.org](http://www.vbyc.org){:class="btn-lrg btn-lrg-light-fill btn-full-width-mobile"}
+[Explore VBYC.org](http://www.vbyc.org){:class="btn-lrg btn-lrg-light-fill btn-full-width-mobile"}

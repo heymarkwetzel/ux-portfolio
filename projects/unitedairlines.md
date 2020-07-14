@@ -8,8 +8,6 @@ description: UX Lead. Designing Aero; software for Agents to manage flights and 
 
 ---
 
-## Summary
-
 United Airlines decided to move away from SHARES (a command-line interface) to Aero (GUI). SHARES was hampering their ability to hire younger talent because it is very difficult to learn. One KPI was to reduce the number of agents who would leave work in tears.
 
 ![SHARES interface](/assets/images/projects/unitedairlines-shares.jpg){:class="img-large"}

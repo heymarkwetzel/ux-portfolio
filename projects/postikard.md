@@ -8,8 +8,6 @@ description: Co-founder and Design Lead for an iOS app that brings the romantici
 
 ---
 
-## Summary
-
 My friend (also co-founder), Jasna, and I share a love of travel. She had recently gone on an extended trip and wished she had an easier way to share her adventures directly with people share cares about instead of blasting a post off to hundreds of folks on the Insta, FB, or Tweeterverse.
 
 We had initially discussed a fully interactive journal experience with maps, lists, media, suggestions, search, recommendation, and… well, a whole lot more. For MVP, we boiled it down to the idea of a custom postcard complete with front and back.
