@@ -33,14 +33,15 @@ description: Title for this project. Executive summary.
 
 This process is simplified due to each project having their own specifications and needs. No project has been purely linear for me; instead they are a web of relationships that impact one another in complex ways.
 
-#### Understand the Problem
+#### Phase 1. Understand the Problem
   - Interviews
   - Research current state
   - Competitive analysis
   - Requirements
   - Feasibility
   - Iteration
-#### Design the Experience
+
+#### Phase 2. Design the Experience
   - Sketch
   - Wires
   - Prototype
@@ -48,7 +49,8 @@ This process is simplified due to each project having their own specifications a
   - Collab with UI
   - Testing
   - Feedback and Iteration
-#### Deliver a Solution
+
+#### Phase 3. Deliver a Solution
   - Annotations, Documentation, JIRA, QA, Video presentation, Sign Off
 
 ---
