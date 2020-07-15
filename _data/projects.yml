@@ -5,6 +5,11 @@ list:
     thumbnail: /assets/images/project-thumbnails/designconsulting.jpg
     url: /consulting/
 
+  - title: Acme Financial
+    description: UX Lead, Financial Tool
+    thumbnail: /assets/images/project-thumbnails/acme-financial.jpg
+    url: /acme-financial/
+
   - title: YourAvon
     description: UX Lead, Product
     thumbnail: /assets/images/project-thumbnails/youravon.jpg
