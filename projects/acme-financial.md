@@ -31,11 +31,14 @@ It was my responsibility to keep track of ever-evolving requirements and specifi
 
 ![Requirements and Content](/assets/images/projects/acme-requirements.jpg){:class="img-large"}
 
+When dealing with the complexities involved in calculating retirement preparedness, it is important to be as accurate as possible - especially in the early phases. I made sure to use real data and content whenever possible.
+
 ---
 
 ## Wireframes as Requirements
 
-Acme was a very visual client and best made decisions regarding requirements through visuals - wires and prototypes.
+Acme was a very visual client and best made decisions regarding requirements by digesting wireframes and prototypes.
 
+I took the lead on sketching, creating visual concepts and prototypes for both Desktop and Mobile. This was a lean project and we used our weekly design meetings to validate requirements, uncover new features, adjust priorities, and tackle technical feasibility.
 
-I took the lead on sketching, creating visual concepts and prototypes for both Desktop and Mobile. This was a lean project and used our design meetings to catalog a list of business requirements and user requirements. Every decision was steeped in real data and actual use-cases. When dealing with retirement calculations over 30+ years, it is important to be as accurate as possible. (I like to use real data and content whenever possible as it helps the designs be more precise.)
+The end result was a concise, organized retirement savings portal that will help more people be prepared for their retirement years.
