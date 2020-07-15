@@ -25,6 +25,7 @@ I make the internet easier to use so that real life becomes a happier place to b
 - Information architecture
 - Competitive analysis
 - User interviews
+- Requirements gathering
 - Strong remote worker
 
 ---
