@@ -2,7 +2,7 @@
 layout: project
 title: Acme Financial
 permalink: /acme-financial/
-feature_class: feature-consulting
+feature_class: feature-acme-financial
 nav: light
 description: UX Lead. Creation of a customer-facing retirement savings management portal.
 
