@@ -14,6 +14,8 @@ Our goal was to make it easier for customers to create and manage their retireme
 1. accessible to all levels of technical proficiency
 2. understandable by people without robust financial literacy
 
+---
+
 ## Concepting
 
 We outlined the business requirements in the initial meeting with Acme. From there, they asked us to brainstorm and present a handful of concepts. I put together a deck that included light competitive analysis as most people need visuals to understand the idea. I presented 13 concepts and they chose two; "Configure Your Future" and "Financial Health Meter". These would become our north star throughout the design process.
@@ -35,11 +37,11 @@ When dealing with the complexities involved in calculating retirement preparedne
 
 ## Wireframes as Requirements
 
-Acme was a very visual client and best made decisions regarding requirements by digesting wireframes and prototypes. I took the lead on sketching, creating visual concepts and prototypes for both Desktop and Mobile.
+Acme was a very visual client and best made decisions regarding requirements by digesting wireframes and prototypes. I took the lead on sketching, creating visual concepts and prototypes for both Desktop and Mobile. Sketching flows and interactions allows me to quickly test models while visualizing multiple UI elements and how they interact.
 
 ![Concept sketching for Acme Financial](/assets/images/projects/acme-sketching.jpg){:class="img-large"}
 
-This was a lean project and we used our weekly design meetings to validate requirements, uncover new features, adjust priorities, and tackle technical feasibility. We had an agenda each week to stay focused, as the product had many moving parts.
+This was a lean project and we used our weekly design meetings to validate requirements, uncover new features, adjust priorities, and tackle technical feasibility. I created an agenda for each meeting to stay focused, as the product had many moving parts.
 The end result was a concise, organized, and highly-detailed retirement savings portal that will help more people be prepared for their retirement years.
 
 ![Wires and Prototype](/assets/images/projects/acme-wires.jpg){:class="img-large"}
