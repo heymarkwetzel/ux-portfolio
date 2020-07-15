@@ -8,9 +8,8 @@ description: UX Lead. Creation of a customer-facing retirement savings managemen
 
 ---
 
-Acme (name changed for privacy) is a large company that helps people save for retirement. When a Customer talks to an Acme Financial Advisor, they have a much higher likelihood of engaging with their retirement. When they engage, they save more.
+Acme (name changed) is a large company that helps people save for retirement. When a Customer talks to an Acme Financial Advisor, they have a much higher likelihood of actively planning for their retirement.
 
-Our goal was to make it easier for customers to create and manage their retirement plans.
 #### Project Goals
 - Simplify the Customer's ability to create a retirement plan.
 - Allow easy collaboration with a Financial Advisor.

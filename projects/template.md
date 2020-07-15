@@ -33,32 +33,32 @@ description: Title for this project. Executive summary.
 
 This process is simplified due to each project having their own specifications and needs. No project has been purely linear for me; instead they are a web of relationships that impact one another in complex ways.
 
-1. Understand the Problem
-  * Interviews
-  * Research current state
-  * Competitive analysis
-  * Requirements
-  * Feasibility
-  * Iteration
-2. Design the Experience
-  * Sketch
-  * Wires
-  * Prototype
-  * Flows
-  * Collab with UI
-  * Testing
-  * Feedback and Iteration
-3. Deliver a Solution
-  * Annotations, Documentation, JIRA, QA, Video presentation, Sign Off
+#### Understand the Problem
+  - Interviews
+  - Research current state
+  - Competitive analysis
+  - Requirements
+  - Feasibility
+  - Iteration
+#### Design the Experience
+  - Sketch
+  - Wires
+  - Prototype
+  - Flows
+  - Collab with UI
+  - Testing
+  - Feedback and Iteration
+#### Deliver a Solution
+  - Annotations, Documentation, JIRA, QA, Video presentation, Sign Off
 
 ---
 
 ### Understand the Problem
 Objective of this phase for this summary.
 Executive summary.
-* Interview
-* Research
-* Competitive analysis  
+- Interview
+- Research
+- Competitive analysis  
 
 #### Interview
 Describe the purpose.
@@ -76,9 +76,9 @@ Describe how it leads into the next step.
 ### Design the Experience
 Objective of this phase for this summary.
 Executive summary.
-* Interview
-* Research
-* Competitive analysis  
+- Interview
+- Research
+- Competitive analysis  
 
 #### Interview
 Describe the purpose.
@@ -96,9 +96,9 @@ Describe how it leads into the next step.
 ### Deliver a Solution
 Objective of this phase for this summary.
 Executive summary.
-* Interview
-* Research
-* Competitive analysis  
+- Interview
+- Research
+- Competitive analysis   
 
 #### Interview
 Describe the purpose.
