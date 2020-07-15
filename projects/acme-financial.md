@@ -29,7 +29,7 @@ We outlined the business requirements in the initial meeting with Acme. From the
 With a topic as complex as personal retirement savings, requirements and precise content was key to success.
 It was my responsibility to keep track of ever-evolving requirements and specific content decisions. Documenting and prioritizing this information informed navigation, page structures, what UI elements to consider, and more.
 
-![Requirements and Content](/assets/images/projects/acme-requirements.jpg)
+![Requirements and Content](/assets/images/projects/acme-requirements.jpg){:class="img-large"}
 
 ---
 
