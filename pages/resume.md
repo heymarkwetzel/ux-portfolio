@@ -31,7 +31,7 @@ I am a UX designer focused on products and problem solving. For 15+ years, I hav
 
 ## <a name="tools"></a>Tools
 - UX: Sketch, Axure, Figma, InVision, Zeplin, Whiteboards
-- Collaboration: Slack, GitHub, JIRA
+- Collaboration: Slack, GitHub, JIRA, Microsoft products
 
 ---
 
