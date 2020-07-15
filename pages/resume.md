@@ -88,3 +88,8 @@ I make the internet easier to use so that real life becomes a happier place to b
 - Minors in Human Computer Interaction (HCI) and Databases
 - Two co-ops, Greatbatch and IBM
 - 2000 - 2005
+
+| Tables           | Are                | Cool    |
+|------------------|:------------------:|--------:|
+| col 3 is         | right-aligned      | $1600   |
+| *Still*          | `renders`          | **nicely** |
