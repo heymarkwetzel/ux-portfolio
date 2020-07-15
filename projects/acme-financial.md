@@ -16,7 +16,7 @@ Our goal was to make it easier for customers to create and manage their retireme
 - Allow easy collaboration with a Financial Advisor.
 - Seamlessly integrate into Acme's existing customer portal.
 - Remain accessible to all age groups and all technical ability.
-- Be welcoming in an industry known for being intimidating and difficult to understand.
+- Be welcoming in an industry known for being intimidating and difficult.
 
 ---
 
