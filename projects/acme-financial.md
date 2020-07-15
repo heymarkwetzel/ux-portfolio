@@ -13,8 +13,8 @@ Acme (not their actual name) is a large company that helps people save for retir
 Our goal was to make it easier for customers to create and manage their retirement plans.
 
 The new software also needed to be:
-- accessible to all levels of technical proficiency
-- understandable by people without robust financial literacy
+1. accessible to all levels of technical proficiency
+2. understandable by people without robust financial literacy
 
 ## Concepting
 
