@@ -13,7 +13,7 @@ permalink: /resume/
 ---
 
 ## <a name="summary"></a>Summary
-I am a UX designer focused on products and websites. For 15+ years, I have been applying UX principles to solve problems for people and businesses. My goal is to make the internet easier to use so that real life becomes a happier place to be.
+I am a UX designer focused on products and problem solving. For 15+ years, I have been applying UX principles to solve problems for people and businesses. My goal is to make the internet easier to use so that real life becomes a happier place to be.
 
 ---
 
