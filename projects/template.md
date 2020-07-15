@@ -8,10 +8,10 @@ description: Title for this project. Executive summary.
 
 ---
 
-## Project Summary
+# Project Summary
 `Year` Basic overview of what was going on.
 
-#### Project Goals
+### Project Goals
 - Lorem
 - Ipsum
 - Dolor
