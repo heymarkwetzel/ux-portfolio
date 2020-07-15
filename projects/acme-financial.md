@@ -44,4 +44,4 @@ Acme was a very visual client and best made decisions regarding requirements by 
 This was a lean project and we used our weekly design meetings to validate requirements, uncover new features, adjust priorities, and tackle technical feasibility. I created an agenda for each meeting to stay focused, as the product had many moving parts.
 The end result was a concise, organized, and highly-detailed retirement savings portal that will help more people be prepared for their retirement years.
 
-![Wireframes for Configure, Financial Health Meter, and Plan Details](/assets/images/projects/acme-wires.jpg){:class="img-large"}
+![Concept sketching for Acme Financial](/assets/images/projects/acme-sketching.jpg){:class="img-large"}
