@@ -4,7 +4,7 @@ title: Acme Financial
 permalink: /acme-financial/
 feature_class: feature-consulting
 nav: light
-description: UX Lead. I pitched concepts, defined and managed requirements, led all design sprints and presentations, integrated feedback from client partners and users testing, and maintained desktop and mobile prototypes as we created a customer-facing retirement savings management portal.
+description: UX Lead. Creation of a customer-facing retirement savings management portal.
 
 ---
 
