@@ -37,8 +37,11 @@ When dealing with the complexities involved in calculating retirement preparedne
 
 ## Wireframes as Requirements
 
-Acme was a very visual client and best made decisions regarding requirements by digesting wireframes and prototypes.
+Acme was a very visual client and best made decisions regarding requirements by digesting wireframes and prototypes. I took the lead on sketching, creating visual concepts and prototypes for both Desktop and Mobile.
 
-I took the lead on sketching, creating visual concepts and prototypes for both Desktop and Mobile. This was a lean project and we used our weekly design meetings to validate requirements, uncover new features, adjust priorities, and tackle technical feasibility.
+![Concept sketching for Acme Financial](/assets/images/projects/acme-sketching.jpg){:class="img-large"}
 
-The end result was a concise, organized retirement savings portal that will help more people be prepared for their retirement years.
+This was a lean project and we used our weekly design meetings to validate requirements, uncover new features, adjust priorities, and tackle technical feasibility. We had an agenda each week to stay focused, as the product had many moving parts.
+The end result was a concise, organized, and highly-detailed retirement savings portal that will help more people be prepared for their retirement years.
+
+![Wires and Prototype](/assets/images/projects/acme-wires.jpg){:class="img-large"}
