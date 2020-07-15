@@ -41,7 +41,7 @@ I make the internet easier to use so that real life becomes a happier place to b
 ### Freelance
 #### Lead UX Designer
 - Nov 2015 - present
-- Consulting with agencies and startups on a wide range of projects. I am client facing and responsible for strategy, requirements, design leadership, assets delivery (wires, prototypes, IA, flows, user interviews, reports, etc), and meeting the needs of the projects.
+- Consulting with agencies and startups on a wide range of projects. I am client facing and responsible for design leadership, strategy, requirements, research, assets delivery (wires, prototypes, IA, flows, user interviews, reports, etc), and meeting the needs of the projects.
 - __Clients: AIG, Arbonne, Astellas, Avon, Ballard Spahr, Katz Sapper & Miller, Meijer, Novo Nordisk, Southwest, and more.__
 
 ### The Studio for Digital Craftsmanship (S4DC)
@@ -62,7 +62,7 @@ I make the internet easier to use so that real life becomes a happier place to b
 ### Critical Mass
 #### Experience Architect
 - Aug 2011 - Dec 2014
-- Led the UX, and a team of three, for a product design while partnering with United Airlines. Created concepts, wireframes, site maps, annotations, and prototypes. Led and participated in sketch sessions, concerting meetings, research, and strategy. Collaborated closely with every discipline, learning a lot about strategy, design, development, QA, content strategy, client management, and more.
+- Led the UX, and a team of three, for a product design while partnering with United Airlines. Created concepts, wireframes, site maps, annotations, and prototypes. Led and participated in sketch sessions, concept meetings, research, and strategy. Collaborated closely with every discipline, learning a lot about strategy, design, development, QA, content strategy, client management, and more.
 
 ### Manifest digital
 #### IT Manager
