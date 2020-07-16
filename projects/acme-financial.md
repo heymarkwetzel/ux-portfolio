@@ -97,10 +97,10 @@ We discussed pain points, meaningful additions, and set boundaries together so w
 All of this, along with the support of my team, allowed me to start meaningfully putting pen to paper.
 
 ![The Ask](/assets/images/projects/acme-theask.jpg){:class="img-large"}
-*the primary ask*
+*The primary ask*
 
 ![Slides from the deck about brainstorming](/assets/images/projects/acme-brainstorming.jpg){:class="img-large"}
-*project setup slides with the two chosen directions*
+*Project setup slides with the two chosen directions*
 
 ![Current state screenshots](/assets/images/projects/acme-current.jpg){:class="img-large"}
 *I explored the Advisor-facing product to understand technical feasibility and backend requirements that would also be applied to the Customer-facing product*
@@ -146,10 +146,13 @@ One major benefit of our "weekly sprint" schedule was that my team at Acme was r
 The end result was a concise, organized, and highly-detailed retirement savings portal that will help more people be prepared for their retirement years. Through collaboration and diligence, we were able to create new concepts, documentat our progress, and be prepared to hand off to UI and Development.
 
 ![Requirements and Content](/assets/images/projects/acme-requirements.jpg){:class="img-large"}
+*Different data sets and values that I constructed and organized to maintain a source of truth.*
 
 ![Concept sketching for Acme Financial](/assets/images/projects/acme-sketching.jpg){:class="img-large"}
+*Sketches and flows from various points in the process on my whiteboard.*
 
 ![Wireframes](/assets/images/projects/acme-wires.jpg){:class="img-large"}
+*Desktop and mobile wires created in Sketch and then brought over to Axure for high-fidelity prototyping.*
 
 ---
 ### 3. Deliver the solution
@@ -163,8 +166,10 @@ Both prototypes (Desktop and Mobile) were designed to be a visual representation
 A UX representative was not scoped for the following phases of the project, so I created a 27-page Pages document for downstream team members to reference as well as a recorded video presentation that served as a personal walkthrough of the entire product with voiceover. This is helpful for both the other team members as well as for Future Me if I am ever called upon to assist on the same project.
 
 ![Prototype](/assets/images/projects/acme-axure.jpg){:class="img-large"}
+*The setup in Axure.*
 
 ![Documentation](/assets/images/projects/acme-documentation.jpg){:class="img-large"}
+*Screenshots from the 27-page Pages document outlining all design decisions and the context that brought us to those decisions.*
 
 ---
 
