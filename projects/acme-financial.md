@@ -19,6 +19,23 @@ Acme (name changed) is a large company that helps people save for retirement. Wh
 
 ---
 
+## Team Overview
+A medium-sized team that consisted of Client members and members of our consultancy. Their Product Owner, Analysts, and Designers teamed up with our Project Manager, Developers, Analysts, and Subject Matter Experts to comfortably collaborate, united as one team to solve a bigger problem.
+
+### My role
+Lead UX Designer
+
+### My responsibilities
+- Partner with executives on product strategy and concepts
+- Creation and presentation of strategy decks
+- Conduct aspirational and competitive analysis
+- Document requirements (business, user, and functional)
+- Parter with Technology to define feasibility constraints
+- Partner with client-side design team on UI patterns and design systems
+- Responsible for end-to-end UX experience
+
+---
+
 ## Concepting
 
 We outlined the business requirements in the initial meeting with Acme. From there, they asked us to brainstorm and present a handful of concepts. I put together a deck that included light competitive analysis as most people need visuals to understand the idea. I presented 13 concepts and they chose two; "Configure Your Future" and "Financial Health Meter". These would become our north star throughout the design process.
