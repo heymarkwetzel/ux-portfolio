@@ -21,41 +21,52 @@ description: Title for this project. Executive summary.
 
 ## Team Overview
 
-* My role on the team
-* Responsibilities
-* Size of teams
-* Client partners or not
-* Relevant cadences
+- My role on the team
+- Responsibilities
+- Size of teams
+- Client partners or not
+- Relevant cadences
 
 ---
 
-## Design Process
+## Design process
+This process is simplified due to each project having its own specifications and needs. No project has been purely linear for me; instead they are a web of relationships that impact one another in complex ways.
 
-This process is simplified due to each project having their own specifications and needs. No project has been purely linear for me; instead they are a web of relationships that impact one another in complex ways.
+However, most projects align to the following steps.
 
-#### 1. Understand the Problem
-  - Interviews
-  - Research current state
-  - Competitive analysis
-  - Requirements
-  - Feasibility
-  - Iteration
+#### 1. Understand the problem
+Discover, Define
 
-#### 2. Design the Experience
-  - Sketch
-  - Wires
-  - Prototype
-  - Flows
-  - Collab with UI
-  - Testing
-  - Feedback and Iteration
+#### 2. Design the experience
+Design, Feedback, and Iteration
 
-#### 3. Deliver a Solution
-  - Annotations, Documentation, JIRA, QA, Video presentation, Sign Off
+#### 3. Deliver a solution
+Develop, Deploy
 
 ---
 
-### Understand the Problem
+### 1. Understand the problem
+- Interview
+- Research
+- Competitive analysis  
+
+Objective of this phase for this summary.
+Executive summary.
+
+#### Interview
+Describe the purpose.
+Describe the process.
+
+#### Repeat as needed
+Describe the purpose.
+Describe the process.
+
+#### Result
+Describe how it leads into the next step.
+
+---
+
+### 2. Design the experience
 Objective of this phase for this summary.
 Executive summary.
 - Interview
@@ -75,27 +86,7 @@ Describe how it leads into the next step.
 
 ---
 
-### Design the Experience
-Objective of this phase for this summary.
-Executive summary.
-- Interview
-- Research
-- Competitive analysis  
-
-#### Interview
-Describe the purpose.
-Describe the process.
-
-#### Repeat as needed
-Describe the purpose.
-Describe the process.
-
-#### Result
-Describe how it leads into the next step.
-
----
-
-### Deliver a Solution
+### 3. Deliver a solution
 Objective of this phase for this summary.
 Executive summary.
 - Interview
