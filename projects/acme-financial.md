@@ -42,17 +42,17 @@ This process is simplified due to each project having its own specifications and
 However, most projects align to the following steps.
 
 #### 1. Understand the problem
-Discover, Define
+*Discover, Define*
 
 #### 2. Design the experience
-Design, Feedback, and Iteration
+*Design, Feedback, and Iteration*
 
 #### 3. Deliver a solution
-Develop, Deploy
+*Develop, Deploy*
 
 ---
 
-### 1. Understand the problem
+## 1. Understand the problem
 - Stakeholder interviews
 - Competitive analysis
 - Brainstorming
@@ -60,7 +60,7 @@ Develop, Deploy
 
 Designing without understanding "Why" is driving without a destination. It can be fun, but it is not actively accomplishing anything with purpose. To gain that purpose, we define what we need to accomplish and strategize how to get there.
 
-#### Stakeholder interviews
+### Stakeholder interviews
 Not having direct access to the Customers or Advisors, we relied heavily on our client partners at Acme for insights. They trusted me to listen, distill, and recommend a way forward to meet the goals of the project.
 
 From these discussions I was able to:
@@ -71,25 +71,25 @@ From these discussions I was able to:
 
 After understanding the business and user goals, we were then asked to come up with high-level concepts for how to solve the problems.
 
-#### Competitive analysis
+### Competitive analysis
 My team took a few days to do independent work before we met up together to discuss our ideas. I took a broad look at many other financial institutions who focus on retirement and savings. I also looked at "aspirational" brands - Nest, Pinterest, Lookout, other non-financial companies - that focus heavily on problem-solving in hopes of finding inspiration.
 
 I also signed up for a Betterment account, for research, days before COVID-19 crashed the markets in March 2020. This got a good chuckle from the client for my "dedication to research".🤣📉
 
 There is a lot of value for being able to see the specifics of how tangential companies solve similar problems.
 
-#### Brainstorming
+### Brainstorming
 I regrouped with my internal team to discuss our independent ideations. I took the lead in consolidating and organizing the thoughts into a concise and direct deck, complete with notes, summaries, and imagery from the competitive analysis.
 
 I presented 13 concepts and Acme chose two; "Configure Your Future" and "Financial Health Meter". These would become our north star throughout the design process.
 
-#### Technical feasibility
+### Technical feasibility
 I spent time understanding the current environments - both the User Portal and the data structures of the Advisor Tool - by receiving test account information for both and poking around.
 I also met with Lead Developers to bounce ideas for changes and learn about which sections of the software could be easily modified and which parts needed to remain as-is.
 
 It's good to have an understanding of the true scope upfront as it saves time, energy, and money over the course of the project.
 
-#### Result
+### Result
 We defined what success would look like - Allowing customers to create and manage their own retirement plans - and agreed on the strategies to get there.
 
 We discussed pain points, meaningful additions, and set boundaries together so we knew where to efficiently apply pressure. Having a strong understanding of backend functionalities and calculations not only armed me with what I needed to create realistic content; it also established a trusting relationship between Design and Development.
@@ -107,7 +107,7 @@ All of this, along with the support of my team, allowed me to start meaningfully
 
 ---
 
-### 2. Design the experience
+## 2. Design the experience
 - Requirements and Content
 - User scenarios
 - Sketching and process flows
@@ -116,33 +116,33 @@ All of this, along with the support of my team, allowed me to start meaningfully
 
 In the Design phase, my goal is to translate the abstract nature of goals, user needs, and strategy into tangible flows, pages, content, and clicks. Our cadence evolved into weekly "sprints" (not Agile) that involved Friday design reviews that doubled as planning for the week ahead. Wednesdays, we would meet internally to validate while leaving enough time for adjustments before review.
 
-#### Requirements and Content
+### Requirements and Content
 This project revolved around financial accuracy, retirement savings, and other complex calculations that made using "lorem ipsum" and FPO monetary values unrealistic. In order to validate if a design was working, we needed 100% realistic savings values, years until retirement, types of accounts, financial predictions, actual expenses to consider, and more.
 
 I created and maintained a requirements folder that become home to spreadsheets with complex calculation models, content needs, user scenarios, net new systems for communicating financial health, required form fields, and other specifics that became the backbone of the product. Much of this information was created in collaboration with Acme's analytics department, our financial experts, and the other savvy professionals that made up our team.
 
-#### User scenarios
+### User scenarios
 Collaborating with our Business Analyst, we defined user scenarios for Customers, Advisors, and how their actions impact one another (since they share the same backend information).
 
-#### Sketching and process flows
+### Sketching and process flows
 This task was not a deliverable, but I find sketching supremely beneficial to my process. I will take a feature and deconstruct it by understanding the process flows. Optimizing the flow and then sketching out the page/component states helps me see how each piece of the application is gets impacted by user interaction. It also helps me identify tangential components that may be altered.
 
 I move quickly on a whiteboard and this helps me to be more efficient once I sit down with my digital design tools.
 "If you have only have five minutes to do something, use the first minute to plan the next four."
 
-#### Wireframes and prototyping
+### Wireframes and prototyping
 Leveraging the realistic data in my requirements as well as the structure provided by the sketching phase, I'm ready to create wireframes in Sketch. I build my wireframes with a Design System in mind, using repeatable components whenever possible. There can be some churn at the beginning of a new project, but it is ultimately worth it to push towards global patterns - even if they don't translate 1-to-1 after they leave the UX phase.
 
 I took a modular (component-based) approach to this project since my designs in Sketch were really being used to feed my prototype in Axure. Each page had to be thought through under many different scenarios - single or spouse, savings or no savings, time until retirement, etc.
 
 We were not building an app version of the product, but we were concerned with it being responsive down to mobile sizes, so each pattern took both mobile and desktop sizes into account. I've been using Axure for all high-fidelity prototypes I've created in my career because no other prototyping tool matches the specificity gained with Dynamic Panels.
 
-#### Feedback
+### Feedback
 This was a lean project and we used our weekly design meetings to validate requirements, uncover new features, adjust priorities, and tackle technical feasibility. I created an agenda for each meeting to stay focused, as the product had many moving parts.
 
 One major benefit of our "weekly sprint" schedule was that my team at Acme was running user testing during the week and would provide me with their stakeholder feedback AND testing feedback every Friday. Testing was another reason for us to have accurate and realistic data for our UI elements. "Lorem" did not fly. If the test subjects couldn't make sense of it, then it had to be refined.
 
-#### Results
+### Results
 The end result was a concise, organized, and highly-detailed retirement savings portal that will help more people be prepared for their retirement years. Through collaboration and diligence, we were able to create new concepts, documentat our progress, and be prepared to hand off to UI and Development.
 
 ![Requirements and Content](/assets/images/projects/acme-requirements.jpg){:class="img-large"}
@@ -155,12 +155,12 @@ The end result was a concise, organized, and highly-detailed retirement savings 
 *Desktop and mobile wires created in Sketch and then brought over to Axure for high-fidelity prototyping.*
 
 ---
-### 3. Deliver the solution
+## 3. Deliver the solution
 - Documentation and handoff
 
 My goal in delivering a solution is to communicate all of the context and nuance included in the design decisions so that the Visual Designer and Developers have the information they need to make informed decisions. Ideally, I would stay on a project as a consultant through QA all the way to deployment, but that was not to plan for this project.
 
-#### Documentation and handoff
+### Documentation and handoff
 Both prototypes (Desktop and Mobile) were designed to be a visual representation of the requirements, even including multiple states for the same component. Several spreadsheets that served as the Requirements were also circulated as a companion piece.
 
 A UX representative was not scoped for the following phases of the project, so I created a 27-page Pages document for downstream team members to reference as well as a recorded video presentation that served as a personal walkthrough of the entire product with voiceover. This is helpful for both the other team members as well as for Future Me if I am ever called upon to assist on the same project.
