@@ -45,7 +45,7 @@ Develop, Deploy
 
 ---
 
-### 1. Understand the problem
+## 1. Understand the problem
 - Interview
 - Research
 - Competitive analysis  
@@ -53,55 +53,55 @@ Develop, Deploy
 Objective of this phase for this summary.
 Executive summary.
 
-#### Interview
+### Interview
 Describe the purpose.
 Describe the process.
 
-#### Repeat as needed
+### Repeat as needed
 Describe the purpose.
 Describe the process.
 
-#### Result
+### Result
 Describe how it leads into the next step.
 
 ---
 
-### 2. Design the experience
+## 2. Design the experience
 Objective of this phase for this summary.
 Executive summary.
 - Interview
 - Research
 - Competitive analysis  
 
-#### Interview
+### Interview
 Describe the purpose.
 Describe the process.
 
-#### Repeat as needed
+### Repeat as needed
 Describe the purpose.
 Describe the process.
 
-#### Result
+### Result
 Describe how it leads into the next step.
 
 ---
 
-### 3. Deliver a solution
+## 3. Deliver a solution
 Objective of this phase for this summary.
 Executive summary.
 - Interview
 - Research
 - Competitive analysis   
 
-#### Interview
+### Interview
 Describe the purpose.
 Describe the process.
 
-#### Repeat as needed
+### Repeat as needed
 Describe the purpose.
 Describe the process.
 
-#### Result
+### Result
 Describe how it leads into the next step.
 
 ---

@@ -1,10 +1,5 @@
 list:
 
-  - title: Design Consulting
-    description: 15+ years of client experience
-    thumbnail: /assets/images/project-thumbnails/designconsulting.jpg
-    url: /consulting/
-
   - title: Acme Financial
     description: UX Lead, Financial Tool
     thumbnail: /assets/images/project-thumbnails/acme-financial.jpg
@@ -29,6 +24,11 @@ list:
     description: Co-founder and Design Lead, App
     thumbnail: /assets/images/project-thumbnails/postikard.jpg
     url: /postikard/
+
+  - title: Design Consulting
+    description: 15+ years of client experience
+    thumbnail: /assets/images/project-thumbnails/designconsulting.jpg
+    url: /consulting/
 
   - title: Haha Hot Dogs
     description: Chef Creative Officer, Postcards and more

@@ -8,6 +8,7 @@ description: UX Lead. Creation of a customer-facing retirement savings managemen
 
 ---
 
+`2020`
 Acme (name changed) is a large company that helps people save for retirement. When a Customer talks to an Acme Financial Advisor, they have a much higher likelihood of actively planning for their retirement.
 
 #### Project Goals
@@ -42,7 +43,7 @@ This process is simplified due to each project having its own specifications and
 However, most projects align to the following steps.
 
 #### 1. Understand the problem
-*Discover, Define*
+<em>Discover, Define</em>
 
 #### 2. Design the experience
 *Design, Feedback, and Iteration*
