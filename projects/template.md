@@ -106,7 +106,7 @@ Describe how it leads into the next step.
 
 ---
 
-## Results
+## Final Result
 Summary. The team was great. We did hard work together.
 
 ### UI, if applicable
