@@ -73,6 +73,7 @@ Context was key as well. For example, the `Enter Items` feature was influenced b
 Most of the features we developed for Avon were brand new. I would pull research from both competitors and Best In Class industries in other markets in order to have a well-informed POV.
 
 ![Avon research example](/assets/images/projects/youravon-research.jpg){:class="img-large"}
+*Slides that account for competitive analysis and ecosystem evaluation*
 
 
 ### Result
