@@ -72,7 +72,7 @@ Context was key as well. For example, the `Enter Items` feature was influenced b
 ### Research
 Most of the features we developed for Avon were brand new. I would pull research from both competitors and Best In Class industries in other markets in order to have a well-informed POV.
 
-![Avon research example](/assets/projects/images/youravon-research.jpg){:class="img-large"}
+![Avon research example](/assets/images/projects/youravon-research.jpg){:class="img-large"}
 
 
 ### Result
@@ -93,7 +93,7 @@ I led several tracks of work while collaborating closely with the Avon design te
 ### User flows
 I always sketch through a feature end-to-end before I start wireframing. This ensures I have all the data and states accounted for. It is absolutely essential to construct flows for features that have a lot of variables.
 
-![Avon whiteboard sketching - collaborative process](/assets/projects/images/youravon-sketching.jpg){:class="img-large"}
+![Avon whiteboard sketching - collaborative process](/assets/images/projects/youravon-sketching.jpg){:class="img-large"}
 *The product of on-site collaborate with many members of the Avon team in Rye, New York.*
 
 ### Wireframes and prototypes
@@ -101,7 +101,7 @@ By the time I got to wireframing (Sketch) and prototyping (Axure), I had a solid
 
 Mobile was an important part of this project and we would spend a lot of time sharing design options with Avon's Design Lead, complete with pros, cons, and our recommendation.
 
-![Avon options for Next Best Action](/assets/projects/images/youravon-wires-options.jpg){:class="img-large"}
+![Avon options for Next Best Action](/assets/images/projects/youravon-wires-options.jpg){:class="img-large"}
 *Conversation with the Avon Design Lead responsible for final design decisions. We had a strong working relationpship that allowed us to move quickly and have a little fun at the same time*
 
 ✨✨✨
@@ -109,7 +109,7 @@ Mobile was an important part of this project and we would spend a lot of time sh
 ### Presentations
 Every other Friday I would present updated design options with my Studio teammates. We would craft an agenda,  give a detailed demo, and then receive and prioritize any necessary feedback. Instead of slides, I would usually showcase the functionality in our master Axure prototype. Showing the interaction as close to real as possible helps to erase ambiguity.
 
-![Avon prototype](/assets/projects/images/youravon-prototype.jpg){:class="img-large"}
+![Avon prototype](/assets/images/projects/youravon-prototype.jpg){:class="img-large"}
 
 
 ### UI
@@ -175,7 +175,7 @@ Once a feature was approved by the Avon team, I would set up time with our front
 ### Design System
 I was an integral part of the team that organized and defined the schema for the Design System documentation. This deliverable included style guide elements, components, documentation, and even reusable code for future application.
 
-![Studio documented Design System style guide](assets/projects/images/youravon-system.jpg){:class="img-large"}
+![Studio documented Design System style guide](assets/images/projects/youravon-system.jpg){:class="img-large"}
 *Screenshot of the digital design system we delivered.*
 
 ### QA
