@@ -2,7 +2,10 @@
 layout: page
 title: Resume
 permalink: /resume/
-description: Continue on the web or [view as PDF](https://drive.google.com/file/d/1zZkI2Wz8Y70cy3AUZj8vRuKQek3pLaMF/view?usp=sharing)
+---
+
+Continue on the web or [view as PDF](https://drive.google.com/file/d/1zZkI2Wz8Y70cy3AUZj8vRuKQek3pLaMF/view?usp=sharing)
+
 ---
 
 1. [Summary](#summary)
@@ -10,10 +13,6 @@ description: Continue on the web or [view as PDF](https://drive.google.com/file/
 3. [Tools](#tools)
 4. [Experience](#experience)
 5. [Education](#education)
-
----
-
-[View as PDF](https://drive.google.com/file/d/1zZkI2Wz8Y70cy3AUZj8vRuKQek3pLaMF/view?usp=sharing)
 
 ---
 
