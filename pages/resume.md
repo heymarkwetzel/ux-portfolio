@@ -31,8 +31,18 @@ I make the internet easier to use so that real life becomes a happier place to b
 ---
 
 ## <a name="tools"></a>Tools
-- UX: Sketch, Axure, Figma, InVision, Zeplin, Whiteboards
-- Collaboration: Slack, GitHub, JIRA, Microsoft products
+### UX
+- Sketch
+- Axure
+- Figma
+- InVision
+- Zeplin
+- Whiteboards
+
+### Collaboration
+- Slack/Teams
+- JIRA
+- GitHub
 
 ---
 
