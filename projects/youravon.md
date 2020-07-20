@@ -95,7 +95,7 @@ I led several tracks of work while collaborating closely with the Avon design te
 I always sketch through a feature end-to-end before I start wireframing. This ensures I have all the data and states accounted for. It is absolutely essential to construct flows for features that have a lot of variables.
 
 ![Avon whiteboard sketching - collaborative process](/assets/images/projects/youravon-sketching.jpg){:class="img-large"}
-*The product of on-site collaborate with many members of the Avon team in Rye, New York.*
+*The product of on-site collaboration with many members of the Avon team in Rye, New York.*
 
 ### Wireframes and prototypes
 By the time I got to wireframing (Sketch) and prototyping (Axure), I had a solid plan for how to tackle the problem. The Avon team would provide the realistic data, we would agree on the flows necessary for sign off, and I would take into account the growing Design System.
@@ -103,7 +103,7 @@ By the time I got to wireframing (Sketch) and prototyping (Axure), I had a solid
 Mobile was an important part of this project and we would spend a lot of time sharing design options with Avon's Design Lead, complete with pros, cons, and our recommendation.
 
 ![Avon options for Next Best Action](/assets/images/projects/youravon-wires-options.jpg){:class="img-large"}
-*Conversation with the Avon Design Lead responsible for final design decisions. We had a strong working relationpship that allowed us to move quickly and have a little fun at the same time*
+*Conversation with the Avon Design Lead responsible for final design decisions. We had a strong working relationship that allowed us to move quickly and have a little fun at the same time.*
 
 ✨✨✨
 
@@ -111,6 +111,7 @@ Mobile was an important part of this project and we would spend a lot of time sh
 Every other Friday I would present updated design options with my Studio teammates. We would craft an agenda,  give a detailed demo, and then receive and prioritize any necessary feedback. Instead of slides, I would usually showcase the functionality in our master Axure prototype. Showing the interaction as close to real as possible helps to erase ambiguity.
 
 ![Avon prototype](/assets/images/projects/youravon-prototype.jpg){:class="img-large"}
+*Axure working file and live prototype*
 
 
 ### UI
