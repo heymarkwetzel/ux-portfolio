@@ -11,6 +11,8 @@ permalink: /resume/
 5. [Education](#education)
 
 ---
+[View as PDF](https://drive.google.com/file/d/1zZkI2Wz8Y70cy3AUZj8vRuKQek3pLaMF/view?usp=sharing)
+---
 
 ## <a name="summary"></a>Summary
 I make the internet easier to use so that real life becomes a happier place to be. I'm looking to apply myself to projects that meaningfully help people. Currently accepting offers for freelance and full-time work.
