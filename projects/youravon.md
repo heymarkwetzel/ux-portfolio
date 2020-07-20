@@ -185,16 +185,6 @@ As features were developed and deployed, I was called on to validate the final p
 
 ---
 
-## Results
-- We helped design, develop, and deploy Avon's first on-time product launch in 15 years
-- Consolidated several Representative tools under one URL
-- Created a Design System that is shared by Design, Development, and more. It became the defacto source of truth and will make adding features easier than before.
-- Received cheers from thousands of Representatives at RepFest 2018 (Products with images!)
-
-[Check out youravon.com](https://www.youravon.com/){:class="btn-lrg btn-lrg-light-fill btn-full-width-mobile"}
-
----
-
 ## RepFest 2018
 
 We had a great relationship with our Avon partners. They treated us like family and invited us to attend RepFest 2018 in Columbus, OH.
@@ -203,3 +193,13 @@ Together, we spoke to hundreds of Representatives, demoed our product updates li
 
 ![YourAvon Repfest 2018](/assets/images/projects/youravon-repfest2018.jpg){:class="img-large"}
 *Showcasing the new youravon.com to a Representative on an iPad at RepFest2018. A great way to get feedback direct from the people who use the tool! As you can see, we had fun!*
+
+---
+
+## Results
+- We helped design, develop, and deploy Avon's first on-time product launch in 15 years
+- Consolidated several Representative tools under one URL
+- Created a Design System that is shared by Design, Development, and more. It became the defacto source of truth and will make adding features easier than before.
+- Received cheers from thousands of Representatives at RepFest 2018 (Products with images!)
+
+[Check out youravon.com](https://www.youravon.com/){:class="btn-lrg btn-lrg-light-fill btn-full-width-mobile"}
