@@ -177,7 +177,7 @@ Once a feature was approved by the Avon team, I would set up time with our front
 ### Design System
 I was an integral part of the team that organized and defined the schema for the Design System documentation. This deliverable included style guide elements, components, documentation, and even reusable code for future application.
 
-![Studio documented Design System style guide](assets/images/projects/youravon-system.jpg){:class="img-large"}
+![Studio documented Design System style guide](/assets/images/projects/youravon-system.jpg){:class="img-large"}
 *Screenshot of the digital design system we delivered.*
 
 ### QA
