@@ -77,11 +77,11 @@ I make the internet easier to use so that real life becomes a happier place to b
 ### Manifest digital
 #### IT Manager
 - Jun 2006 - Sep 2010
-- Responsible for all enterprise level support systems (email, phones, ISPs, etc) as well as onboarding employees. Involved in executive strategy. Worked closely with UX department to support for focus groups, user testing, interviews, and more.
+- Responsible for all enterprise level support systems (email, phones, ISPs, etc) as well as onboarding employees. Involved in executive strategy. Worked closely with the UX department to support focus groups, user testing, interviews, and more.
 
 ### IBM
 #### Developer, Intern
-- Jun 2003 - Nov 2003
+- 2003
 - Responsible for receiving requirements and then creating GUIs powered by Javascript and MySQL to help engineers with their reporting.
 
 ### On the side
