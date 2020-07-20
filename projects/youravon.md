@@ -109,7 +109,7 @@ Mobile was an important part of this project and we would spend a lot of time sh
 ### Presentations
 Every other Friday I would present updated design options with my Studio teammates. We would craft an agenda,  give a detailed demo, and then receive and prioritize any necessary feedback. Instead of slides, I would usually showcase the functionality in our master Axure prototype. Showing the interaction as close to real as possible helps to erase ambiguity.
 
-![Avon prototype](assets/projects/images/youravon-prototype.jpg){:class="img-large"}
+![Avon prototype](/assets/projects/images/youravon-prototype.jpg){:class="img-large"}
 
 
 ### UI
