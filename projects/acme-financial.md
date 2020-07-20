@@ -83,7 +83,7 @@ I also signed up for a Betterment account, for research, days before COVID-19 cr
 
 There is a lot of value for being able to see the specifics of how other companies solve similar problems.
 
-![Betterment competitive analysis](/assets/images/project/acme-betterment.jpg){:class="img-large"}
+![Betterment competitive analysis](/assets/images/projects/acme-betterment.jpg){:class="img-large"}
 *A screenshot from my Betterment account. Also a case study in how to display rapid losses.*
 
 
