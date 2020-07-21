@@ -8,13 +8,13 @@ description: UX Lead. Designing Aero; software for Agents to manage flights and 
 
 ---
 
-`2013` United Airlines decided to move away from SHARES (a command-line interface) to Aero (GUI). SHARES was hampering their ability to hire, and keep, talent because it is very difficult to learn. We literally were working under a "No More Tears" initiative; less agents calling in sick or leaving work crying.
+`2014` United Airlines decided to move away from SHARES (a command-line interface) to Aero (GUI). SHARES was hampering their ability to hire, and keep, talent because it is very difficult to learn. We literally were working under a "No More Tears" initiative; less agents calling in sick or leaving work crying.
 
 ### Project Goals
 - Create a fully functioning GUI that utilizes the back end functionality of SHARES
-- Consolidate all Agent tools under one banner - Aero
-- Design to meet the needs of all airport environments, including Agents without mice, low light scenarios, black and white monitors, and more.
-- Zero down time. The application must be functional and easy to learn.
+- Consolidate all Agent tools under one banner - AERO
+- Design to meet the needs of global office environments; including Agents without mice, low light scenarios, black and white monitors, and more.
+- Decrease the Agents' average handle time (AHT)
 
 ---
 
@@ -22,16 +22,17 @@ description: UX Lead. Designing Aero; software for Agents to manage flights and 
 
 Airport and Contact Center agents partnered directly with the Critical Mass team and created a collaborative relationship that allowed us to help shape the user experience of the AERO application with the actual end users providing invaluable insight.
 
-We had the unique benefit of getting to collaborate tightly with our actual users - Gate Agents and Contact Center Agents. My role was to recommend flows and patterns that maintain best practices and create experiences that are intuitive while decreasing the Agents’ average handle time (AHT).
-
 ### My role
 UX Lead
 
 ### My responsibilities
-- Requirements
--
+- User interviews
+- Requirements gathering
+- Process flows
+- Presentations to United
+- Work within, and help create, a Design System
+- Consult through QA and Development
 - Manage a UX team of 3
-
 
 ---
 
@@ -52,93 +53,93 @@ However, most projects align to the following steps.
 ---
 
 ## 1. Understand the problem
-- Interview
-- Research
-- Competitive analysis  
+- User interviews
+- Requirements
+- Competitive analysis
 
-Objective of this phase for this summary.
-Executive summary.
+We spent a few days a week at Willis Tower talking directly to the Agents. Their knowledge and passion was invaluable; from gathering requirements to validating workflows and designs.
+Much of the work was very technical and rich with terms used by experts in the field (Deadhead, Ghost seat, PNR, SSMF, FLIFO, etc). We became proficient in both terminology and airline workflows in order to design best-in-class solutions.
 
-### Interview
-Describe the purpose.
-Describe the process.
+### User interviews
+I would sit with the agents, listening to them describe the feature, explain pain points, and provide potential solutions for the problems. We would document their frustrations and then translate their needs into a UI through the design process and our knowledge of best practices.
 
 ![Alt tag](/image/path){:class="img-large"}
 
-### Repeat as needed
-Describe the purpose.
-Describe the process.
+### Requirements
+I partnered with a team of Business Analysts and we would walk through hundreds of requirements, line by line, with a room full of agents, technologists, product owners, designers, and more to validate, update, and fully understand every piece of the problem we were aiming to solve. This was an instrumental part of the process for me, as it would establish scope, feasibility, and my parameters for what pieces of the feature were flexible and what needed to move into AERO exactly as is.
 
 ![Alt tag](/image/path){:class="img-large"}
 
 ### Result
-Describe how it leads into the next step.
+Hearing the problem from the people who experience it themselves is an awesome way for me to gain the context I need to start designing. It also makes me more invested because I have an emotional attachment to the solution. I'm not just trying to update Seat Map functionality, I'm trying to help Mary Pat and her team provide a pleasant experience to thousands of travelers.
 
 ---
 
 ## 2. Design the experience
-Objective of this phase for this summary.
-Executive summary.
-- Interview
-- Research
-- Competitive analysis  
+- Internal kickoff
+- Prototyping
 
-### Interview
-Describe the purpose.
-Describe the process.
+### Internal kickoff
+I would come back to the CM (Critical Mass) office and set up and internal kickoff. This is where I would recap the Problem, lead sketching sessions, collaborate early and often with Design and Development, and establish a design plan.
+
+![Alt tag](/image/path){:class="img-large"}
+
+### Prototyping
+In a pre-Sketch world, I did all of my wireframing directly in Axure. This informed our workflow and our deliverables as the prototype was used for all UX presentations and the annotations document was used, in part, for delivery to Development.
 
 ![Alt tag](/image/path){:class="img-large"}
 
 ### Result
-Describe how it leads into the next step.
+Because we were building a UI from scratch for a user base that had little-to-no familiarity with UI's, the Axure Prototype proved invaluable for showing the Agents what AERO could actually do for them. We were able to define each click, each interaction, see how it would impact other areas of the interface, and ultimately get confirmation for a feature "sign off", which would allow us to move into the next phase of the Waterfall.
 
 ---
 
 ## 3. Deliver a solution
-Objective of this phase for this summary.
-Executive summary.
-- Interview
-- Research
-- Competitive analysis   
+- Visual Design reviews
+- Design system
+- QA
 
-### Interview
-Describe the purpose.
-Describe the process.
+### Visual Design reviews
+I would work as a supporting role through the Visual Design phase, sitting in on those meetings to help bridge the gap between conceptual wireframes and the finalized designs. If any changes to the requirements would come about, I would lead live sketching or negotiate a solution as quickly as possible to solve the need.
 
 ![Alt tag](/image/path){:class="img-large"}
 
+### Design system
+I was an integral part of the team that organized and defined the schema for the Design System documentation. This deliverable included style guide elements, components, and documentation for a plethora of difference scenarios that could occur in the airport environment.
+We would lean on this document heavily in order to maintain a clean, organized, and efficient structure for AERO.
+
+![Alt tag](/image/path){:class="img-large"}
+
+### QA
+CM's developers were the arbiter of functionality - we passed our front end code directly to United (who was responsible for all of the back end code). Before CM developers would submit their build, UX and Visual Design would review, collaborate, define updates, and then give approval. This was a crucial step in ensuring the vision defined in the earlier phases made it through into AERO production.
+
 ### Result
-Describe how it leads into the next step.
+We were able to sit in from User Interviews to Code Reviews and ensure that the initial vision, defined by the Agents, was correctly executed. The Design System was also helpful in allowing team members to roll off and on without losing momentum.
 
 ---
 
 ## Final Result
-Summary. The team was great. We did hard work together.
+It is very rewarding to know that the work I was doing was having a positive impact on 20,000+ agents worldwide. I remember flying United and asking a Gate Agent about AERO. She seemed confused, but not unhappy, when I told her that FLIFO was going to be released soon. 🤷‍♂️
+
+Years later, AERO is still being worked on and improved. For my part, I was able to help with 25 full features that touched every aspect of the customer journey - from booking to seat changes to irregular operations, to contacting support.
 
 ### UI, if applicable
-I consult as part of the UI process, but I was not the designer.
+![Alt tag](/image/path){:class="img-large"}
+![Alt tag](/image/path){:class="img-large"}
 
 ### Wins
-- We increased this by that
-- We did wonders for the brand
-- People were happy
-- Our team was commonly referred to as "The Goodness"
+- Created a GUI where only command-line existed before
+- Earned the right to bring EZR, MileaguePlus, and Booking into AERO
+- Helped to establish the first AERO pattern library
+- Consistently released AERO updates on time, worldwide
+- The Agents we worked with referred to our team as "The Goodness"
 
 
 ---
 ---
 ---
-
-United Airlines decided to move away from SHARES (a command-line interface) to Aero (GUI). SHARES was hampering their ability to hire younger talent because it is very difficult to learn. One KPI was to reduce the number of agents who would leave work in tears.
 
 ![SHARES interface](/assets/images/projects/unitedairlines-shares.jpg){:class="img-large"}
-
-## Process
-We spent a few days a week at Willis Tower talking directly to the Agents. Their knowledge and passion was invaluable; from gathering requirements to validating workflows, wireframes, and final designs.
-Much of the work was very technical and rich with terms used by experts in the field (Deadhead, Ghost seat, PNR, SSMF, FLIFO, etc). We became proficient in both terminology and airline workflows in order to design best-in-class solutions. I led a team of three and partnered closely with both Design and Development.
-
-## Results and Outcome
-Aero was built to be "One application with many doors", accounting for all aspects of the customer's journey. We were able to successfully launch product updates for both Gate Agents and Customer Service Agents that are used today by 20,000+ agents around the world.
 
 ![Aero](/assets/images/projects/united-aero.jpg){:class="img-large"}
 
