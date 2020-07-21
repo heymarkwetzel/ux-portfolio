@@ -30,6 +30,7 @@ I make the internet easier to use so that real life becomes a happier place to b
 - Competitive analysis
 - User interviews
 - Requirements gathering
+- Research
 - Strong remote worker
 
 ---
