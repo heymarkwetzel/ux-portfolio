@@ -4,7 +4,7 @@ title: Resume
 permalink: /resume/
 ---
 
-Continue on the web or [view as PDF](https://drive.google.com/file/d/1zZkI2Wz8Y70cy3AUZj8vRuKQek3pLaMF/view?usp=sharing)
+Continue on the web or [view as PDF](https://drive.google.com/file/d/1zZkI2Wz8Y70cy3AUZj8vRuKQek3pLaMF/view?usp=sharing).
 
 ---
 
