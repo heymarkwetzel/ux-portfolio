@@ -34,14 +34,14 @@ This process is simplified due to each project having its own specifications and
 
 However, most projects align to the following steps.
 
-#### 1. Understand the problem
-Discover, Define
+### 1. Understand the problem
+*Discover, Define*
 
-#### 2. Design the experience
-Design, Feedback, and Iteration
+### 2. Design the experience
+*Design, Feedback, and Iteration*
 
-#### 3. Deliver a solution
-Develop, Deploy
+### 3. Deliver a solution
+*Develop, Deploy*
 
 ---
 
@@ -57,9 +57,13 @@ Executive summary.
 Describe the purpose.
 Describe the process.
 
+![Alt tag](/image/path){:class="img-large"}
+
 ### Repeat as needed
 Describe the purpose.
 Describe the process.
+
+![Alt tag](/image/path){:class="img-large"}
 
 ### Result
 Describe how it leads into the next step.
@@ -77,9 +81,7 @@ Executive summary.
 Describe the purpose.
 Describe the process.
 
-### Repeat as needed
-Describe the purpose.
-Describe the process.
+![Alt tag](/image/path){:class="img-large"}
 
 ### Result
 Describe how it leads into the next step.
@@ -97,9 +99,7 @@ Executive summary.
 Describe the purpose.
 Describe the process.
 
-### Repeat as needed
-Describe the purpose.
-Describe the process.
+![Alt tag](/image/path){:class="img-large"}
 
 ### Result
 Describe how it leads into the next step.
