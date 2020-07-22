@@ -159,6 +159,8 @@ The output of months of collaboration and hard work.
 ![Aero seat map](/assets/images/projects/united-aero-packages.jpg){:class="img-large"}
 *An example of Aero from the Contact Center Agent's perspective.*
 
+---
+
 ### Wins
 - Created a GUI where only command-line existed before
 - Earned the right to bring EZR, MileaguePlus, and Booking into Aero
