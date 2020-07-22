@@ -62,13 +62,13 @@ Much of the work was very technical and rich with terms used by experts in the f
 ### User interviews
 I would sit with the agents, listening to them describe the feature, explain pain points, and provide potential solutions for the problems. We would document their frustrations and then translate their needs into a UI through the design process and our knowledge of best practices.
 
-![Alt tag](/image/path){:class="img-large"}
-*The user interviews would sometimes morph into working sessions as we made sure to understand the problem.*
 
 ### Requirements
-I partnered with a team of Business Analysts and we would walk through hundreds of requirements, line by line, with a room full of agents, technologists, product owners, designers, and more to validate, update, and fully understand every piece of the problem we were aiming to solve. This was an instrumental part of the process for me, as it would establish scope, feasibility, and my parameters for what pieces of the feature were flexible and what needed to move into Aero exactly as is.
+I partnered with a team of Business Analysts and we would walk through hundreds of requirements, line by line, with a room full of agents, technologists, product owners, and designers to validate and fully understand every piece of the problem we were aiming to solve. This was an instrumental part of the process for me, as it would establish scope, feasibility, and my parameters for what pieces of the feature were flexible and what needed to move into Aero exactly as is.
 
-![Alt tag](/image/path){:class="img-large"}
+![United Requirements for Messages feature](/assets/images/projects/united-requirements.jpg){:class="img-large"}
+*This example is for leaving Messages for other agents regarding Customers. A smaller feature, this spreadsheet has over 100 requirements.*
+
 
 ### Result
 Hearing the problem from the people who experience it themselves is an awesome way for me to gain the context I need to start designing. It also makes me more invested because I have an emotional attachment to the solution. I'm not just trying to update Seat Map functionality, I'm trying to help Mary Pat and her team provide a pleasant experience to thousands of travelers.
@@ -78,6 +78,7 @@ Hearing the problem from the people who experience it themselves is an awesome w
 ## 2. Design the experience
 - Internal kickoff
 - Prototyping
+- UX Design reviews
 
 ### Internal kickoff
 I would come back to the CM (Critical Mass) office and set up and internal kickoff. This is where I would recap the Problem, lead sketching sessions, collaborate early and often with Design and Development, and establish a design plan.
@@ -88,6 +89,13 @@ I would come back to the CM (Critical Mass) office and set up and internal kicko
 In a pre-Sketch world, I did all of my wireframing directly in Axure. This informed our workflow and our deliverables as the prototype was used for all UX presentations and the annotations document was used, in part, for delivery to Development.
 
 ![Alt tag](/image/path){:class="img-large"}
+
+### UX Design reviews
+I would travel to United's offices for in-person presentations a few times a week. It would be my responsibility to recap the problem, provide context, and sell in how the UX would solve user needs, business goals, and also be technically feasible within the timeline. These design reviews sometimes became collaborative sketching sessions in order to quickly work through a problem.
+
+![United Sketching for seat map](/assets/images/projects/united-sketching.jpg){:class="img-large"}
+*Various sketches from the Seat Map feature. This was very complex and our solution needed to be bullet proof. Spoiler: It was.*
+
 
 ### Result
 Because we were building a UI from scratch for a user base that had little-to-no familiarity with UI's, the Axure Prototype proved invaluable for showing the Agents what Aero could actually do for them. We were able to define each click, each interaction, see how it would impact other areas of the interface, and ultimately get confirmation for a feature "sign off", which would allow us to move into the next phase of the Waterfall.
