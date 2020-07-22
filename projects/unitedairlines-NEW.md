@@ -71,7 +71,7 @@ I partnered with a team of Business Analysts and we would walk through hundreds 
 
 
 ### Result
-Hearing the problem from the people who experience it themselves is an awesome way for me to gain the context I need to start designing. It also makes me more invested because I have an emotional attachment to the solution. I'm not just trying to update Seat Map functionality, I'm trying to help Mary Pat and her team provide a pleasant experience to thousands of travelers.
+Hearing the problem from the people who experience it themselves is an awesome way for me to gain the context I need to start designing. It also makes me more invested because I have an emotional attachment to the solution. I'm not just trying to update Seat Map functionality, I'm trying to help Mary Pat and her team provide a pleasant experience for thousands of travelers.
 
 ---
 
@@ -81,14 +81,16 @@ Hearing the problem from the people who experience it themselves is an awesome w
 - UX Design reviews
 
 ### Internal kickoff
-I would come back to the CM (Critical Mass) office and set up and internal kickoff. This is where I would recap the Problem, lead sketching sessions, collaborate early and often with Design and Development, and establish a design plan.
+I would come back to the Critical Mass office and meet with our team; Art Director, Designers, UX, Front-end Dev, PMs, and more as needed. This is where I would recap the Problem, lead internal sketching sessions, collaborate early and often with Design and Development, and establish my plan for solving the problem.
 
-![Alt tag](/image/path){:class="img-large"}
 
 ### Prototyping
-In a pre-Sketch world, I did all of my wireframing directly in Axure. This informed our workflow and our deliverables as the prototype was used for all UX presentations and the annotations document was used, in part, for delivery to Development.
+I did all of my wireframing and annotations in Axure. I delivered high-fidelity prototypes to gain sign off from the client. The prototypes also acted as a companion piece for Dev. Axure's Specification Document served as our annotations document, which was included with many deliveries (until we discovered the prototype was more valuable and easier for downline team members to consume).
 
-![Alt tag](/image/path){:class="img-large"}
+![United prototype](/assets/images/projects/united-prototype.jpg){:class="img-large"}
+
+![United annotations](/assets/images/projects/united-annotations.jpg){:class="img-large"}
+
 
 ### UX Design reviews
 I would travel to United's offices for in-person presentations a few times a week. It would be my responsibility to recap the problem, provide context, and sell in how the UX would solve user needs, business goals, and also be technically feasible within the timeline. These design reviews sometimes became collaborative sketching sessions in order to quickly work through a problem.
