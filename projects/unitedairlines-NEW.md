@@ -20,7 +20,7 @@ description: UX Lead. Designing Aero; software for Agents to manage flights and 
 
 ## Team Overview
 
-United's Airport and Contact Center agents partnered directly with the Critical Mass team and created a collaborative relationship that allowed us to help shape the user experience by working directly with the actual end users and their valuable insight.
+United's Airport and Contact Center agents partnered directly with the Critical Mass team and created a collaborative relationship that allowed us to help shape the user experience by working directly with the actual end users and their invaluable insight.
 
 ### My role
 UX Lead
@@ -63,6 +63,7 @@ Much of the work was very technical and rich with terms used by experts in the f
 I would sit with the agents, listening to them describe the feature, explain pain points, and provide potential solutions for the problems. We would document their frustrations and then translate their needs into a UI through the design process and our knowledge of best practices.
 
 ![Alt tag](/image/path){:class="img-large"}
+*The user interviews would sometimes morph into working sessions as we made sure to understand the problem.*
 
 ### Requirements
 I partnered with a team of Business Analysts and we would walk through hundreds of requirements, line by line, with a room full of agents, technologists, product owners, designers, and more to validate, update, and fully understand every piece of the problem we were aiming to solve. This was an instrumental part of the process for me, as it would establish scope, feasibility, and my parameters for what pieces of the feature were flexible and what needed to move into Aero exactly as is.
