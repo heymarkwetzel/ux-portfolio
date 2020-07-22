@@ -88,8 +88,10 @@ I would come back to the Critical Mass office and meet with our team; Art Direct
 I did all of my wireframing and annotations in Axure. I delivered high-fidelity prototypes to gain sign off from the client. The prototypes also acted as a companion piece for Dev. Axure's Specification Document served as our annotations document, which was included with many deliveries (until we discovered the prototype was more valuable and easier for downline team members to consume).
 
 ![United prototype](/assets/images/projects/united-prototype.jpg){:class="img-large"}
+*FLIFO (Flight Info) in Axure being created and then shown on the web with instructions for the scripted experience*
 
 ![United annotations](/assets/images/projects/united-annotations.jpg){:class="img-large"}
+*Partial pages from the 66 page Seat Map Thru Functions annotations document*
 
 
 ### UX Design reviews
@@ -112,13 +114,12 @@ Because we were building a UI from scratch for a user base that had little-to-no
 ### Visual Design reviews
 I would work as a supporting role through the Visual Design phase, sitting in on those meetings to help bridge the gap between conceptual wireframes and the finalized designs. If any changes to the requirements would come about, I would lead live sketching or negotiate a solution as quickly as possible to solve the need.
 
-![Alt tag](/image/path){:class="img-large"}
-
 ### Design system
-I was an integral part of the team that organized and defined the schema for the Design System documentation. This deliverable included style guide elements, components, and documentation for a plethora of difference scenarios that could occur in the airport environment.
+I was part of the team that organized and defined the schema for the Design System documentation. This deliverable included style guide elements, components, and documentation for a plethora of difference scenarios that could occur in the airport environment.
 We would lean on this document heavily in order to maintain a clean, organized, and efficient structure for Aero.
 
-![Alt tag](/image/path){:class="img-large"}
+![Areo design system](/assets/images/projects/united-design-system.jpg){:class="img-large"}
+*The master files were in a PSD that would be circulated as PDF.*
 
 ### QA
 CM's developers were the arbiter of functionality - we passed our front end code directly to United (who was responsible for all of the back end code). Before CM developers would submit their build, UX and Visual Design would review, collaborate, define updates, and then give approval. This was a crucial step in ensuring the vision defined in the earlier phases made it through into Aero production.
@@ -133,9 +134,30 @@ It is very rewarding to know that the work I was doing was having a positive imp
 
 Years later, Aero is still being worked on and improved. For my part, I was able to help with 25 full features that touched every aspect of the customer journey - from booking to seat changes to irregular operations, to contacting support.
 
-### UI, if applicable
-![Alt tag](/image/path){:class="img-large"}
-![Alt tag](/image/path){:class="img-large"}
+### UI - Before the Design Process
+A collection of different tools that we had a hand in moving from their native environments over to Areo.
+
+![SHARES interface](/assets/images/projects/united-shares.jpg){:class="img-large"}
+*SHARES, the command-line interface that had been around since the 1970s. Responsible for being the backbone of an airline and for countless hours of agent frustration*
+
+![SHARES interface](/assets/images/projects/united-ezr.jpg){:class="img-large"}
+*EZR, a dated interface that Call Center Agents used to modify customer reservations, usually while on the phone with the customer.*
+
+![SHARES interface](/assets/images/projects/united-tables.jpg){:class="img-large"}
+
+---
+
+### UI - After the Design Process
+The output of months of collaboration and hard work.
+
+![Aero seat map](/assets/images/projects/united-aero-seatmap.jpg){:class="img-large"}
+*An example of Aero with the interactive seat map.*
+
+![Aero seat map](/assets/images/projects/united-aero-flifo.jpg){:class="img-large"}
+*Aero's FLIFO (flight info), come to life through art direction and design*
+
+![Aero seat map](/assets/images/projects/united-aero-packages.jpg){:class="img-large"}
+*An example of Aero from the Contact Center Agent's perspective.*
 
 ### Wins
 - Created a GUI where only command-line existed before
@@ -143,14 +165,3 @@ Years later, Aero is still being worked on and improved. For my part, I was able
 - Helped to establish the first Aero pattern library
 - Consistently released Aero updates on time, worldwide
 - The Agents we worked with referred to our team as "The Goodness"
-
-
----
----
----
-
-![SHARES interface](/assets/images/projects/unitedairlines-shares.jpg){:class="img-large"}
-
-![Aero](/assets/images/projects/united-aero.jpg){:class="img-large"}
-
-![EZR](/assets/images/projects/united-ezr.jpg){:class="img-large"}
