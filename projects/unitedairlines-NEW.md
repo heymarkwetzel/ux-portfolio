@@ -8,7 +8,7 @@ description: UX Lead. Designing Aero; software for Agents to manage flights and 
 
 ---
 
-`2014` United Airlines decided to move away from SHARES (a command-line interface) to Aero (GUI). SHARES was hampering their ability to hire, and keep, talent because it is very difficult to learn. We literally were working under a "No More Tears" initiative; less agents calling in sick or leaving work crying.
+`2014` United Airlines decided to move away from SHARES (a command-line interface) to Aero (GUI). SHARES was hampering their ability to keep talent because it is very difficult to learn. We were working under a literal "No More Tears" initiative; less agents calling in sick or leaving work crying.
 
 ### Project Goals
 - Create a fully functioning GUI that utilizes the back end functionality of SHARES
@@ -20,7 +20,7 @@ description: UX Lead. Designing Aero; software for Agents to manage flights and 
 
 ## Team Overview
 
-Airport and Contact Center agents partnered directly with the Critical Mass team and created a collaborative relationship that allowed us to help shape the user experience of the Aero application with the actual end users providing invaluable insight.
+United's Airport and Contact Center agents partnered directly with the Critical Mass team and created a collaborative relationship that allowed us to help shape the user experience by working directly with the actual end users and their valuable insight.
 
 ### My role
 UX Lead
@@ -55,7 +55,6 @@ However, most projects align to the following steps.
 ## 1. Understand the problem
 - User interviews
 - Requirements
-- Competitive analysis
 
 We spent a few days a week at Willis Tower talking directly to the Agents. Their knowledge and passion was invaluable; from gathering requirements to validating workflows and designs.
 Much of the work was very technical and rich with terms used by experts in the field (Deadhead, Ghost seat, PNR, SSMF, FLIFO, etc). We became proficient in both terminology and airline workflows in order to design best-in-class solutions.
