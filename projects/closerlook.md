@@ -1,6 +1,6 @@
 ---
 layout: project
-title: United Airlines
+title: closerlook
 permalink: /closerlook/
 feature_class: feature-unitedairlines
 nav: light
@@ -115,9 +115,6 @@ In addition to the symbols, modules, and components, I was able to create full T
 
 ![closerlook wireframe library](/assets/images/projects/closerlook-template.jpg){:class="img-large"}
 *Example of Home Page template, ready for body copy and basic color updates*
-
-PUT ALL OF THE IMAGES HERE
-SO MANY IMAGES
 
 ---
 
