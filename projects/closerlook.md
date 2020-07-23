@@ -123,7 +123,7 @@ In addition to the symbols, modules, and components, I was able to create full T
 - Rollout
 
 ### Executive approval
-Lorem ipsum
+I had been meeting with the Director of UX throughout the design process.
 
 > “I feel like this is the Christmas morning I’ve been waiting for for five years.” Ryan Mason, Chief Creative Officer.
 May 04, 2016. After Sandra (Director of UX) and I gave him our presentation of the Wireframe Tool in Sketch.
