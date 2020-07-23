@@ -74,6 +74,9 @@ I then continued to audit all existing components from current and past project 
 ![WEM Screenshot](/assets/images/projects/closerlook-wem.jpg){:class="img-large"}
 *Relevant screen shot from WEM, which helped inform the information architecture.*
 
+![Sample](/assets/images/projects/closerlook-sample.jpg){:class="img-large"}
+**
+
 #### Other structures
 [Atomic design](https://shop.bradfrost.com/) was so hot around this time, and it's still a great way to structure a design system. The most important piece is to think about a collection of components as a system, knowing that each piece should exist in harmony with the next.
 
@@ -109,6 +112,9 @@ In addition to the symbols, modules, and components, I was able to create full T
 
 ![closerlook wireframe library](/assets/images/projects/closerlook-library.jpg){:class="img-large"}
 *The output from the Wirefame Library project; organized, reusable components*
+
+![closerlook wireframe library](/assets/images/projects/closerlook-template.jpg){:class="img-large"}
+*Example of Home Page template, ready for body copy and basic color updates*
 
 PUT ALL OF THE IMAGES HERE
 SO MANY IMAGES
