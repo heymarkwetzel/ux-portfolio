@@ -125,7 +125,8 @@ In addition to the symbols, modules, and components, I was able to create full T
 ### Executive approval
 Lorem ipsum
 
-> “I feel like this is the Christmas morning I’ve been waiting for for five years.” - Ryan Mason, Chief Creative Officer. May 04, 2016. After Sandra (Director of UX Department) and I gave him our presentation of the Wireframe Tool in Sketch.
+> “I feel like this is the Christmas morning I’ve been waiting for for five years.” Ryan Mason, Chief Creative Officer.
+May 04, 2016. After Sandra (Director of UX) and I gave him our presentation of the Wireframe Tool in Sketch.
 
 ### Rollout
 Use it on projects. Train WEM Authors and other designers on how it functions. Sketch was pretty new then, so Symbols were not widely known. No one is ever going to read this.
