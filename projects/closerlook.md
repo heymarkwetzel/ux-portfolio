@@ -28,7 +28,7 @@ UX Lead
 ### My responsibilities
 - Achieve a basic understanding of WEM; to navigate, not author
 - Organize a schema that accounts for all components and modules
-- Create a robust symbol library that includes said components and modules
+- Create a robust symbol library that includes all relevant components and modules
 - Document the library for future designers
 
 ---
@@ -123,12 +123,18 @@ In addition to the symbols, modules, and components, I was able to create full T
 - Rollout
 
 ### Executive approval
-I had been meeting with the Director of UX throughout the design process.
+I had been meeting with the Director of UX throughout the design process, but we needed to meet with executive leadership before rolling out the new tool. I gave an overview of the problem and methodology, and then showed two things:
+1. How to build a custom page with an array of symbols.
+2. How to, with one selection, drop an entire Template onto an art board.
+
+Both were well received, but the latter elicited the following response...
 
 > “I feel like this is the Christmas morning I’ve been waiting for for five years.” Ryan Mason, Chief Creative Officer.
 May 04, 2016. After Sandra (Director of UX) and I gave him our presentation of the Wireframe Tool in Sketch.
 
 ### Rollout
+
+
 Use it on projects. Train WEM Authors and other designers on how it functions. Sketch was pretty new then, so Symbols were not widely known. No one is ever going to read this.
 We even started to use the "Templates" level on some home pages.
 
@@ -138,7 +144,7 @@ Do I need this section?
 ---
 
 ## Final Result
-I worked on more glamorous projects while at closerlook, but this one helped a real and present need. I created an efficient, reusable, and scalable tool for a large design agency. Used in conjunction with the process for this client, we were able to save time, money, and free up UX resources for more aspirational projects.
+I worked on more glamorous projects while at closerlook, but this one helped a real and present need. I created an efficient, reusable, and scalable tool for a large design agency. Used in conjunction with the process for the client, we were able to save time, money, and free up UX resources for more aspirational projects.
 
 ---
 
