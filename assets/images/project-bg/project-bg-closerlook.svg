@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="285px" height="281px" viewBox="0 0 285 281" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>project-bg-closerlook</title>
-    <g id="project-bg-closerlook" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="project-bg-closerlook" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.1">
         <g id="Group-78" fill="#6D7278" transform="translate(0.315021, 0.000000)">
             <path d="M114.671786,36.9201169 L105.929045,5.11112006 C30.3300509,24.6069569 -14.9264898,101.564207 5.13038619,176.469265 C7.70178055,186.217183 11.3017326,195.452053 15.9302425,204.173875 C2.55899183,123.112238 43.7013015,54.3637604 114.671786,36.9201169" id="Fill-1"></path>
             <path d="M65.3010141,216.487035 L41.644186,239.57421 C97.1863041,294.470382 186.670828,294.98343 242.727225,240.087258 C249.927129,232.904582 256.098475,225.208857 261.755543,217.000083 C197.470684,269.331014 116.214622,268.817965 65.3010141,216.487035" id="Fill-3"></path>
