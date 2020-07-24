@@ -134,13 +134,7 @@ Both were well received, but the latter elicited the following response...
 May 04, 2016. After Sandra (Director of UX) and I gave him our presentation of the Wireframe Tool in Sketch.
 
 ### Rollout
-
-
-Use it on projects. Train WEM Authors and other designers on how it functions. Sketch was pretty new then, so Symbols were not widely known. No one is ever going to read this.
-We even started to use the "Templates" level on some home pages.
-
-### Result
-Do I need this section?
+I was asked to present the wireframe library to the larger Design team; giving a demo and encouraging its use. Sketch was relatively new so it was a bit of knowledge share on the application itself and the power of symbols. I continued to use, and expand on, the library for the entirety of my time at closerlook.
 
 ---
 
