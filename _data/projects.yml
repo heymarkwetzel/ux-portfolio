@@ -15,20 +15,25 @@ list:
     thumbnail: /assets/images/project-thumbnails/united.jpg
     url: /unitedairlines/
 
+  - title: closerlook
+    description: UX Lead, Wireframe Library
+    thumbnail: /assets/images/project-thumbnails/closerlook.jpg
+    url: /closerlook/
+
   - title: Van Buren Youth Camp
     description: UX Lead, Website redesign
     thumbnail: /assets/images/project-thumbnails/vbyc.jpg
     url: /vbyc/
 
-  - title: Postikard
-    description: Co-founder and Design Lead, App
-    thumbnail: /assets/images/project-thumbnails/postikard.jpg
-    url: /postikard/
-
   - title: Design Consulting
     description: 15+ years of client experience
     thumbnail: /assets/images/project-thumbnails/designconsulting.jpg
     url: /consulting/
+
+  - title: Postikard
+    description: Co-founder and Design Lead, App
+    thumbnail: /assets/images/project-thumbnails/postikard.jpg
+    url: /postikard/
 
   - title: Haha Hot Dogs
     description: Chef Creative Officer, Postcards and more
