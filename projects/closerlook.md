@@ -2,7 +2,7 @@
 layout: project
 title: closerlook
 permalink: /closerlook/
-feature_class: feature-unitedairlines
+feature_class: feature-closerlook
 nav: light
 description: UX Lead. Module library, fully custom and editable.
 
