@@ -136,7 +136,7 @@ May 04, 2016. After Sandra (Director of UX) and I gave him our presentation of t
 ### Rollout
 I was asked to present the wireframe library to the larger Design team; giving a demo and encouraging its use. Sketch was relatively new so it was a bit of knowledge share on the application itself and the power of symbols. I continued to use, and expand on, the library for the entirety of my time at closerlook.
 
-![closerlook build a page with library](/assets/images/projects/closerlook-page-builder.gif){:class"img-large"}
+![closerlook build a page with library](/assets/images/projects/closerlook-build-page.gif){:class"img-large"}
 *Dropping in the nav and a hero. All body copy is editable and breaking any symbol allows for tweaks.*
 
 ---
