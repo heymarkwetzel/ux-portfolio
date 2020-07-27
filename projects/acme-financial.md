@@ -9,26 +9,26 @@ description: UX Lead. Creation of a customer-facing retirement savings managemen
 ---
 
 `2020`
-Acme (name changed) is a large company that helps people save for retirement. When a Customer talks to an Acme Financial Advisor, they have a much higher likelihood of actively planning for their retirement.
+Acme is a large company that helps people save for retirement. When a customer creates a retirement plan with their Financial Advisor they are more likely to contribute towards their retirement.
 
 ### Project Goals
-- Simplify the Customer's ability to create a retirement plan.
-- Allow easy collaboration with a Financial Advisor.
-- Seamlessly integrate into Acme's existing customer portal.
-- Remain accessible to all age groups and all technical ability.
-- Be welcoming in an industry known for being intimidating and difficult.
+- Simplify the Customer's ability to create a retirement plan
+- Allow easy collaboration with a Financial Advisor
+- Seamlessly integrate into Acme's existing customer portal
+- Remain accessible to all age groups and all technical abilities
+- Be welcoming in an industry known for being intimidating and difficult to understand
 
 ---
 
 ## Team Overview
-A medium-sized team that consisted of Client members and members of our consultancy. Their Product Owner, Analysts, and Designers teamed up with our Project Manager, Developers, Analysts, and Subject Matter Experts to comfortably collaborate, united as one team to solve a bigger problem.
+A medium-sized team that consisted of client members and members of our consultancy. Their Product Owner, Analysts, and Designers teamed up with our Project Manager, Developers, Analysts, and Subject Matter Experts to comfortably collaborate, united as one team to solve a bigger problem.
 
 ### My role
 Lead UX Designer
 
 ### My responsibilities
 - Partner with executives on product strategy and concepts
-- Creation and presentation of strategy decks
+- Create and present strategy decks
 - Conduct aspirational and competitive analysis
 - Document requirements (business, user, and functional)
 - Parter with Technology to define feasibility constraints
