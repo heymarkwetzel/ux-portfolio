@@ -116,15 +116,15 @@ All of this, along with the support of my team, allowed me to start meaningfully
 ---
 
 ## 2. Design the experience
-- Requirements and Content
+- Requirements and content
 - User scenarios
 - Sketching and process flows
 - Wireframes and prototyping
 - Feedback
 
-In the Design phase, my goal is to translate the abstract nature of goals, user needs, and strategy into tangible flows, pages, content, and clicks. Our cadence evolved into weekly "sprints" (not Agile) that involved Friday design reviews that doubled as planning for the week ahead. Wednesdays, we would meet internally to validate while leaving enough time for adjustments before review.
+In the Design phase, my goal is to translate the abstract nature of goals, user needs, and strategy into tangible flows, pages, content, and clicks. Our cadence evolved into weekly "sprints" that involved Friday design reviews that doubled as planning for the week ahead. Wednesdays were for meeting internally to validate while leaving enough time for adjustments before the Friday review.
 
-### Requirements and Content
+### Requirements and content
 This project revolved around financial accuracy, retirement savings, and other complex calculations that made using "lorem ipsum" and FPO monetary values unrealistic. In order to validate if a design was working, we needed 100% realistic savings values, years until retirement, types of accounts, financial predictions, actual expenses to consider, and more.
 
 I created and maintained a requirements folder that become home to spreadsheets with complex calculation models, content needs, user scenarios, net new systems for communicating financial health, required form fields, and other specifics that became the backbone of the product. Much of this information was created in collaboration with Acme's analytics department, our financial experts, and the other savvy professionals that made up our team.
@@ -140,7 +140,7 @@ Collaborating with our Business Analyst, we defined user scenarios for Customers
 *User scenarios worksheet made in collaboration with the team*
 
 ### Sketching and process flows
-This task was not a deliverable, but I find sketching supremely beneficial to my process. I will take a feature and deconstruct it by understanding the process flows. Optimizing the flow and then sketching out the page/component states helps me see how each piece of the application is gets impacted by user interaction. It also helps me identify tangential components that may be altered.
+This task was not a deliverable, but I find sketching supremely beneficial to my process. I will take a feature and deconstruct it by understanding the process flows. Optimizing the flow and then sketching out the page/component states helps me see how each piece of the application is impacted by user interaction. It also helps me identify tangential components that may be altered.
 
 I move quickly on a whiteboard and this helps me to be more efficient once I sit down with my digital design tools.
 "If you have only have five minutes to do something, use the first minute to plan the next four."
