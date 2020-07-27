@@ -172,7 +172,7 @@ The end result was a concise, organized, and highly-detailed retirement savings 
 ## 3. Deliver the solution
 - Documentation and handoff
 
-My goal in delivering a solution is to communicate all of the context and nuance included in the design decisions so that the Visual Designer and Developers have the information they need to make informed decisions. Ideally, I would stay on a project as a consultant through QA all the way to deployment, but that was not to plan for this project.
+My goal in delivering a solution is to communicate all of the context and nuance included in the design decisions so that the UI Designer and Developers have the information they need to make informed decisions. Ideally, I would stay on a project as a consultant through QA all the way to deployment, but that was not the plan for this project.
 
 ### Documentation and handoff
 Both prototypes (Desktop and Mobile) were designed to be a visual representation of the requirements, even including multiple states for the same component. Several spreadsheets that served as the Requirements were also circulated as a companion piece.
@@ -183,7 +183,7 @@ A UX representative was not scoped for the following phases of the project, so I
 *The setup in Axure.*
 
 ![Documentation](/assets/images/projects/acme-documentation.jpg){:class="img-large"}
-*Screenshots from the 27-page Pages document outlining all design decisions and the context that brought us to those decisions.*
+*Screenshots from the 27-page Google Pages document outlining all design decisions and the context that brought us there.*
 
 ---
 
@@ -191,11 +191,11 @@ A UX representative was not scoped for the following phases of the project, so I
 The financial space is complex and challenging. But coming to an elegant, thoughtful solution was very rewarding.
 Partnering with such a knowledgeable and collaborative team made my job fun and exciting.
 
-The final product is set to release in Q3 2020 and should meet our goal of making it easier for Customers to create a retirement plan and ultimately contribute more funds towards their later years.
+The final product is set to release in Q3 2020 and will meet our goal of making it easier for Customers to create a retirement plan and ultimately contribute more funds towards their later years.
 
 ### Wins
 - Successfully created a Customer-facing Plan Creation tool.
 - Successfully created a Customer-facing Plan Management tool.
-- The Product was designed to connect into a shared data source for future features involving more Customer-and-Advisor collaboration.
+- The product was designed to connect with a shared data source for future features involving more Customer-and-Advisor collaboration.
 - User testing shows signs that Customers without retirement plans will be more likely to create plans and contribute.
-- Based on current metrics, this software could help save an additional $1B - $2.25B collectively among Acme Customers.
+- Based on current metrics, this software could help save an additional $1B - $2.25B per year, collectively, among Acme Customers.
