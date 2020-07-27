@@ -59,7 +59,7 @@ However, most projects align to the following steps.
 - Brainstorming
 - Technical Feasibility
 
-Designing without understanding "Why" is driving without a destination. It can be fun, but it is not actively accomplishing anything with purpose. To gain that purpose, we define what we need to accomplish and strategize how to get there.
+Designing without understanding "Why" is like driving without a destination. It can be fun, but it is not actively accomplishing anything with purpose. To gain that purpose, we define what we need to accomplish and strategize how to get there.
 
 ### Stakeholder interviews
 Not having direct access to the Customers or Advisors, we relied heavily on our client partners at Acme for insights. They trusted me to listen, distill, and recommend a way forward to meet the goals of the project.
@@ -77,7 +77,7 @@ After understanding the business and user goals, we were then asked to come up w
 
 
 ### Competitive analysis
-My team took a few days to do independent work before we met up together to discuss our ideas. I took a broad look at many other financial institutions who focus on retirement and savings. I also looked at "aspirational" brands - Nest, Pinterest, Lookout, other non-financial companies - that focus heavily on problem-solving in hopes of finding inspiration.
+My team took a few days to work independently before meeting up to discuss our ideas. I took a broad look at many other financial institutions that focus on retirement and savings. I also looked at "aspirational" brands - Nest, Pinterest, Lookout, other non-financial companies - that focus heavily on problem-solving in hopes of finding inspiration.
 
 I also signed up for a Betterment account, for research, days before COVID-19 crashed the markets in March 2020. This got a good chuckle from the client for my "dedication to research".🤣📉
 
@@ -90,7 +90,7 @@ There is a lot of value for being able to see the specifics of how other compani
 ### Brainstorming
 I regrouped with my internal team to discuss our independent ideations. I took the lead in consolidating and organizing the thoughts into a concise and direct deck, complete with notes, summaries, and imagery from the competitive analysis.
 
-I presented 13 concepts and Acme chose two; "Configure Your Future" and "Financial Health Meter". These would become our north star throughout the design process.
+I presented 13 concepts and Acme chose two; "Configure Your Future" and "Financial Health Meter". These would become our north stars throughout the design process.
 
 ![Slides from the deck about brainstorming](/assets/images/projects/acme-brainstorming.jpg){:class="img-large"}
 *Project setup slides with the two chosen directions*
