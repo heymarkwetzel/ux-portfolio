@@ -21,7 +21,7 @@ Avon is a social-selling beauty company - one of the first of its kind. They fac
 ---
 
 ## Team overview
-I worked on this project as a member of the [Studio for Digital Craftsmanship](http://www.studio4dc.com). Our team joined 20+ active client partners (stakeholders, analysts, designers, technology, strategists, and more), with occasional third party vendor support. The full team would regroup a few times a month. For closer partnerships, we invited members of the Avon team into our Slack so we could collaborate daily.
+I worked on this project as a member of the [Studio for Digital Craftsmanship](http://www.studio4dc.com). Our team joined 20+ active client partners (stakeholders, analysts, designers, technologists, strategists, and more), with occasional third party vendor support. The full team would regroup a few times a month. For closer partnerships, we invited members of the Avon team into our Slack so we could collaborate daily.
 
 ### My role
 UX Lead
@@ -70,7 +70,7 @@ Many features had to align to existing backend structures, so understanding both
 Context was key as well. For example, the `Enter Items` feature was influenced by Representatives who are used to a "paper only" environment. They were more concerned with six-digit part numbers than Product Names. The design ended up being more of an adding machine than a predictive search due to this crucial information.
 
 ### Research
-Most of the features we developed for Avon were brand new. I would pull research from both competitors and Best In Class industries in other markets in order to have a well-informed POV.
+Most of the features we developed for Avon were brand new. I would pull research from both competitors and Best In Class examples from other markets in order to have a well-informed POV.
 
 ![Avon research example](/assets/images/projects/youravon-research.jpg){:class="img-large"}
 *Slides that account for competitive analysis and ecosystem evaluation*
@@ -89,7 +89,7 @@ Our process demanded us to be thorough and was flexible enough to incorporate up
 - Presentations
 - UI
 
-I led several tracks of work while collaborating closely with the Avon design team and third-party vendors. A lot of my work was driven by two-week sprints and involved a lot of Wireframe and Prototype delivery.
+I led several tracks of work while collaborating closely with the Avon design team and third-party vendors. A lot of my work was driven by two-week sprints and involved a lot of wireframe and prototype delivery.
 
 ### User flows
 I always sketch through a feature end-to-end before I start wireframing. This ensures I have all the data and states accounted for. It is absolutely essential to construct flows for features that have a lot of variables.
@@ -108,7 +108,7 @@ Mobile was an important part of this project and we would spend a lot of time sh
 ✨✨✨
 
 ### Presentations
-Every other Friday I would present updated design options with my Studio teammates. We would craft an agenda,  give a detailed demo, and then receive and prioritize any necessary feedback. Instead of slides, I would usually showcase the functionality in our master Axure prototype. Showing the interaction as close to real as possible helps to erase ambiguity.
+Every other Friday I would present updated design options with my Studio teammates. We would craft an agenda,  give a detailed demo, and then receive and prioritize any necessary feedback. Instead of slides, I would usually showcase the functionality in our master Axure prototype. Showing the interactions as close to how they will be once deployed helps to erase ambiguity.
 
 ![Avon prototype](/assets/images/projects/youravon-prototype.jpg){:class="img-large"}
 *Axure working file and live prototype*
