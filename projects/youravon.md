@@ -21,7 +21,7 @@ Avon is a social-selling beauty company - one of the first of its kind. They fac
 ---
 
 ## Team overview
-I worked on this project as a member of the [Studio for Digital Craftsmanship](www.studio4dc.com). Our team joined 20+ active client partners (stakeholders, analysts, designers, technology, strategists, and more), with occasional third party vendor support. The full team would regroup a few times a month. For closer partnerships, we invited members of the Avon team into our Slack so we could collaborate daily.
+I worked on this project as a member of the [Studio for Digital Craftsmanship](http://www.studio4dc.com). Our team joined 20+ active client partners (stakeholders, analysts, designers, technology, strategists, and more), with occasional third party vendor support. The full team would regroup a few times a month. For closer partnerships, we invited members of the Avon team into our Slack so we could collaborate daily.
 
 ### My role
 UX Lead
