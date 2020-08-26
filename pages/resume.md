@@ -17,7 +17,11 @@ Continue on the web or [view as PDF](https://drive.google.com/file/d/1zZkI2Wz8Y7
 ---
 
 ## <a name="summary"></a>Summary
-I make the internet easier to use so that real life becomes a happier place to be. I'm looking to apply myself to projects that meaningfully help people. Currently accepting offers for freelance and full-time work.
+I am proficient in using the design process to identify problems, create experiences, and deliver solutions that consistently address both human and business needs in the digital space.
+
+I make the internet easier to use so that real life is a happier place to be.
+
+I'm looking to apply myself to projects that meaningfully help people. Currently accepting offers for freelance and full-time work.
 
 ---
 
@@ -56,38 +60,101 @@ I make the internet easier to use so that real life becomes a happier place to b
 ### Freelance
 #### Lead UX Designer
 - Nov 2015 - present
-- Consulting with agencies and startups on a wide range of projects. I am client facing and responsible for design leadership, strategy, requirements, research, assets delivery (wires, prototypes, IA, flows, user interviews, reports, etc), and meeting the needs of the projects.
+- [Consulting](/consulting/) with agencies and startups on a wide range of projects. I am client facing and responsible for design leadership, strategy, requirements, research, assets delivery (wires, prototypes, IA, flows, user interviews, reports, etc), and meeting the needs of the projects.
 - __Clients: AIG, Arbonne, Astellas, Avon, Ballard Spahr, Katz Sapper & Miller, Meijer, Novo Nordisk, Southwest, and more.__
+
+### RetireUp
+#### Lead UX Designer, Freelance
+- Feb 2020 - Jul 2020
+- Launched a [customer-facing retirement planning and management tool](/acme-financial/).
+- Partnered with executives on product strategy and brainstorming sessions.
+Client-facing and responsible for design leadership through the Discovery, Definition, and Design phases.
+- Conducted research in the form of stakeholder interviews, competitive analysis, heuristic analysis, and tech feasibility.
+- Documentation of requirements (business and functional) and user scenarios.
+- Responsible for all wireframes, prototypes, and for working within and adding to the client's existing design system.
+- Full documentation for handoff including written, prototype, and video walkthrough with voiceover.
+
+### One North Interactive
+#### Senior UX Designer, Freelance
+- May 2019 - Jan 2020
+- Led UX design initiatives for 10+ clients over six months; including stakeholder interviews, surveys, and competitive analysis for Ballard Spahr, site consolidation and redesigns for Meritas and Katz Sapper & Miller, and more.
+- Client-facing and responsible for UX leadership, presentations, and collaboration through all phases of multiple projects.
+- Conducted and led research in the form of stakeholder interviews, user interviews, survey creation, comparative analysis, and heuristic analysis.
+- Wrote detailed annotations and specification documents to detail interactions, expectations, and context.
+- Responsible for information architecture, site consolidations, content prioritizations, leading sketch sessions, wireframes, sprint planning, and more.
+- Collaborated positively with cross-functional and remote teams to ensure all project objectives were met.
+
+### Rightpoint
+#### Senior UX Designer, Freelance
+- Dec 2016 - Oct 2019
+- Led UX design initiatives for 6+ clients over three years; including Sharepoint redesigns for Meijer and Southwest Airlines, a user portal for VCA, a site consolidation for Johnson Controls, stakeholder interviews for TransUnion, and more.
+- Client-facing and responsible for UX leadership and presentations (strategy and designs).
+- Conducted research in the form of stakeholder interviews, user interviews, and surveys for multiple projects.
+- Responsible for wireframes, information architecture, content strategy, and prototypes.
+- Collaborated positively with cross-functional and remote teams to ensure all project objectives were met.
 
 ### The Studio for Digital Craftsmanship (S4DC)
 #### Director of UX Design Systems
 - Mar 2017 - Jan 2019
-- Led UX design through the full project lifecycle while partnering with enterprise clients. Crafted requirements, user flows, wireframes, prototypes, and presented strategic POVs for CRM and e-commerce products that include login/password flows, dashboards, calendars, reports, analysis, and more.
+- Directed and led UX for two large-scale, collaborative clients (Arbonne, [Avon](/youravon/)) from discovery through deployment.
+- Client-facing and responsible for UX leadership, strategy, scoping, sprint-planning, presentations, and more.
+- Crafted requirements, user flows, and POV decks.
+- Responsible for wireframes and prototypes that covered a wide range of functionality including e-commerce, login/signup, dashboards, calendars, reporting, analysis, and much more.
+- Designed with Salesforce’s Lightning Design System in mind for patterns, layouts, and functionality (Arbonne).
+- Instrumental in the creation and structure of a fully brand new design system for YourAvon.com’s full rebrand and rebuild.
+- Visited RepFest 2018 in Columbus, OH to participate in festivities and interview hundreds of Representatives.
+- Successfully designed and helped deploy Avon’s first on-time product launch  in 15 years.
+
+### closerlook
+#### Senior UX Designer, Freelance
+- Nov 2015 - Nov 2016
+- Led UX design initiatives internally and for 10+ clients over one year; including websites and web apps for Astellas, Novo Nordisk, and Takeda brands as well as an internal tool for rapid wireframing.
+- Client-facing and responsible for UX leadership and presentations (strategy and designs).
+- Successfully launched several websites to be in compliance with strict legal guidelines customary in the healthcare industry.
+- Designed wireframes and prototypes to be consistent with existing design system limitations.
+- Successfully created a [UX pattern library](/closerlook/) in Sketch that significantly decreased the hours needed during the UX phase of Novo Nordisk projects.
+- Actively participated in knowledge share, UX workshops, and team building exercises.
 
 ### NowSecure
 #### Senior UX Designer
 - Dec 2014 - Nov 2015
-- Led UX initiatives on two products while supporting other projects. Worked closely with all teams in a highly distributed and collaborative environment. Responsible for the experience, product strategy, pricing structure, design, copy, and for being a vocal thought leader for a UX. Mentor to two interns.
-
-### Chicago Portfolio School
-#### Instructor
-- 2014
-- Created and taught a 10-week course on the principles of UX design after receiving positive feedback from a guest-speaking engagement at the school.
+- Led UX design for a suite of products for a tech startup.
+- UX evangelist in an engineering-focused company.
+- Responsible for product strategy, concepts, pricing, copy, and design for net-new and fully reimagined products.
+- Conducted research in the form of stakeholder interviews, customer service interviews, and competitive analysis.
+- Collaborated with a globally distributed team via Slack and other cloud services; including recorded demos.
+- Mentor to two interns.
 
 ### Critical Mass
 #### Experience Architect
 - Aug 2011 - Dec 2014
-- Led the UX, and a team of three, for a product design while partnering with United Airlines. Created concepts, wireframes, site maps, annotations, and prototypes. Led and participated in sketch sessions, concept meetings, research, and strategy. Collaborated closely with every discipline, learning a lot about strategy, design, development, QA, content strategy, client management, and more.
+- Led UX initiatives for 10+ clients over 3 years. United Airlines, Moen, USAA, Humana, HP, Miami Tourism, VISA, Citi Bank, and more.
+- Thrived in an agency environment that calls for agility and flexibility while collaborating on ever-changing teams.
+- Client-facing and responsible for UX leadership and presentations (strategy and designs).
+- Led the UX, and teams, on multiple projects - consistently meeting the needs of the client.
+- Actively participated in knowledge share, UX workshops, and team building exercises.
+- UX artifacts created: wireframes, prototypes, site maps, personas, annotations, research decks, and more.
+- Contributed to [United Airlines](/unitedairlines/) with user interviews, requirements gathering, sketch sessions, and consistent release dates for Aero (the software used by agents to run the business).
+
+### Chicago Portfolio School
+#### Instructor
+- Aug 2014 - Dec 2014
+- Created and taught a 10-week course on the principles of UX design.
+
 
 ### Manifest digital
 #### IT Manager
 - Jun 2006 - Sep 2010
-- Responsible for all enterprise level support systems (email, phones, ISPs, etc) as well as onboarding employees. Involved in executive strategy. Worked closely with the UX department to support focus groups, user testing, interviews, and more.
+- Ran the IT department through three consecutive years of 100% growth.
+- Responsible for all enterprise level support systems (email, phones, ISPs, etc).
+- Worked closely with executives on company strategy, onboarding, and budgets.
+- Collaborated closely with the UX department to support focus groups, user testing, interviews, and more.
 
 ### IBM
-#### Developer, Intern
-- 2003
-- Responsible for receiving requirements and then creating GUIs powered by Javascript and MySQL to help engineers with their reporting.
+#### Junior Developer, Intern
+- Jun 2003 - Dec 2003
+- Responsible for needs assessment and requirements gathering.
+- Created dozens of GUIs, powered by Javascript and MySQL, to assist engineers with their reporting.
 
 ### On the side
 #### UX Designer

@@ -9,7 +9,7 @@ description: I have been practicing UX design for 15+ years. I've worked with co
 ---
 
 I've very competent and easy to work with.
-Success for any project comes from understanding the problem, working through a methodology, and maintaining mutual respect with teammates, clients, and end users.
+Success for any project comes from understanding the problem, working through a methodology, and maintaining mutual respect with teammates, clients, and customers.
 
 ---
 
