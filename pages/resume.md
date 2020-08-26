@@ -21,8 +21,6 @@ I am proficient in using the design process to identify problems, create experie
 
 I make the internet easier to use so that real life is a happier place to be.
 
-I'm looking to apply myself to projects that meaningfully help people. Currently accepting offers for freelance and full-time work.
-
 ---
 
 ## <a name="skills"></a>Skills
