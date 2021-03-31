@@ -17,6 +17,7 @@ permalink: /contact/
 ---
 
 ## Email
+<!---
 
 <form name="contact" class="contact-form" action="https://getform.io/f/b0767e1d-3c74-44dd-8b24-e643a61b4dd1" method="POST">
   <div class="contact-form-personal-info">
@@ -37,5 +38,6 @@ permalink: /contact/
     <button type="submit" class="btn-lrg btn-lrg-light btn-full-width-mobile">Send Email</button>
   </p>
 </form>
+-->
 
 ---
