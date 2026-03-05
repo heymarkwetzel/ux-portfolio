@@ -10,10 +10,10 @@ list:
     thumbnail: /assets/images/project-thumbnails/youravon.jpg
     url: /youravon/
 
-  - title: United Airlines - Aero
-    description: UX Lead, Product
-    thumbnail: /assets/images/project-thumbnails/united.jpg
-    url: /unitedairlines/
+#  - title: United Airlines - Aero
+#    description: UX Lead, Product
+#    thumbnail: /assets/images/project-thumbnails/united.jpg
+#    url: /unitedairlines/
 
   - title: closerlook
     description: UX Lead, Wireframe Library
